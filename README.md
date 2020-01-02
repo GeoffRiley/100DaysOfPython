@@ -9,4 +9,9 @@ ploughing on for hour after hour playing with a new _toy_… as tends to be my w
 ## Day 1: [1<sup>st</sup> January 2020](./001)
 
 Try out awesome library _PyPattyrn_ at https://github.com/tylerlaberge/PyPattyrn 
-— A simple yet effective library for implementing common design patterns. 
+—a simple yet effective library for implementing common design patterns. 
+
+## Day 2: [2<sup>nd</sup> January 2020](./002)
+
+Try out awesome library _bidict_ at https://github.com/jab/bidict 
+—Efficient, Pythonic bidirectional map data structures and related functionality.
