@@ -1,9 +1,9 @@
-# Day 2: [2<sup>nd</sup> January 2020](./002)
+# Day 2: 2<sup>nd</sup> January 2020
 
 Try out awesome library [_bidict_](https://github.com/jab/bidict)—Efficient, Pythonic bidirectional map data structures and related functionality.
 
 ## Requirements
-pip install bidict
+`pip install bidict`
 
 ## Notes
 _bidict_ is a bi-directional dictionary. The purpose is to be able to access both `keys` and `value` by their 

@@ -15,3 +15,8 @@ Try out awesome library _PyPattyrn_ at https://github.com/tylerlaberge/PyPattyrn
 
 Try out awesome library _bidict_ at https://github.com/jab/bidict 
 —Efficient, Pythonic bidirectional map data structures and related functionality.
+
+## Day 3: [3<sup>rd</sup> January 2020](./003)
+
+Try out awesome library _valideer_ at https://github.com/podio/valideer
+—Lightweight extensible data validation and adaptation library.

@@ -2,7 +2,7 @@
 Try out awesome library [_PyPattyrn_](https://github.com/tylerlaberge/PyPattyrn)—a simple yet effective library for implementing common design patterns.
 
 ## Requirements
-pip install pypattyrn
+`pip install pypattyrn`
 
 ## Notes
 Design patterns are a language agnostic subject set of principles that may be applied to similar problems in any system.
