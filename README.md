@@ -20,3 +20,8 @@ Try out awesome library _bidict_ at https://github.com/jab/bidict
 
 Try out awesome library _valideer_ at https://github.com/podio/valideer
 —Lightweight extensible data validation and adaptation library.
+
+## Day 4: [4<sup>th</sup> January 2020](./004)
+
+Try out awesome library _Plan_ at https://github.com/fengsp/plan 
+—Writing crontab file in Python like a charm.
