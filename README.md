@@ -25,3 +25,11 @@ Try out awesome library _valideer_ at https://github.com/podio/valideer
 
 Try out awesome library _Plan_ at https://github.com/fengsp/plan 
 —Writing crontab file in Python like a charm.
+
+## Day 5: [5<sup>th</sup> January 2020](./005)
+Try out awesome library _django-wordpress_ at https://github.com/istrategylabs/django-wordpress 
+—WordPress models and views for Django. 
+
+## Day 6: [6<sup>th</sup> January 2020](./006)
+Try out awesome library _short_url_ at https://github.com/Alir3z4/python-short_url
+—Python implementation for generating Tiny URL and bit.ly-like URLs.
