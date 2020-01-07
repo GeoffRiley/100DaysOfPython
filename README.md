@@ -33,3 +33,7 @@ Try out awesome library _django-wordpress_ at https://github.com/istrategylabs/d
 ## Day 6: [6<sup>th</sup> January 2020](./006)
 Try out awesome library _short_url_ at https://github.com/Alir3z4/python-short_url
 —Python implementation for generating Tiny URL and bit.ly-like URLs.
+
+## Day 7: [7<sup>th</sup> January 2020](./007)
+Try out awesome library _sanitize_ at https://github.com/Alir3z4/python-sanitize 
+—Bringing sanity to world of messed-up data. 
