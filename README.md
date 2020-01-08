@@ -37,3 +37,7 @@ Try out awesome library _short_url_ at https://github.com/Alir3z4/python-short_u
 ## Day 7: [7<sup>th</sup> January 2020](./007)
 Try out awesome library _sanitize_ at https://github.com/Alir3z4/python-sanitize 
 —Bringing sanity to world of messed-up data. 
+
+## Day 8: [8<sup>th</sup> January 2020](./008)
+Try out awesome library django-elastic-transcoder at https://github.com/StreetVoice/django-elastic-transcoder 
+—Django + [Amazon Elastic Transcoder](https://aws.amazon.com/elastictranscoder/).
