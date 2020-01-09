@@ -1,0 +1,4613 @@
+[
+  {
+    "id": 1,
+    "name": "The Bush Whacker",
+    "short_name": "",
+    "description": "Whacks them bushes good... still getting used to whacking monsters.",
+    "base_cost": "5",
+    "click_damage": "1",
+    "graphic_id": 3109,
+    "hp_mod": 1,
+    "default_graphics": {
+      "portrait_graphic": 4195,
+      "portrait_offsetY": 0,
+      "custom_items": "arm_patch_id=40,bag_id=29,eyebrows_id=19,eye_shape_id=37,facial_hair_id=11,glasses_id=27,hair_id=3,hat_id=41,nose_shape_id=31,shirt_id=129,head_shape_id=65,makeup_id=58,sword_id=106,cape_id=126,gloves_id=116,bottle_id=127,eye_color_set_id=70,hair_color_set_id=1,shirt_color_set_id=60,skin_color_set_id=45,eyebrow_color_set_id=1,facial_hair_color_set_id=1,hip_color_set_id=60,lip_color_set_id=89,makeup_color_set_id=89"
+    },
+    "seat_id": "1",
+    "properties": {
+      "type": "human",
+      "tags": [
+        "male",
+        "human",
+        "clicker"
+      ],
+      "has_attack_animation": true,
+      "flavor_tags": [
+        "tier1"
+      ]
+    }
+  },
+  {
+    "id": 2,
+    "name": "Jim the Lumberjack",
+    "short_name": "Jim",
+    "description": "Can fell a tree with a single blow. Are monsters all that different?",
+    "base_cost": "50",
+    "click_damage": "0",
+    "graphic_id": 3110,
+    "hp_mod": 1,
+    "default_graphics": {
+      "portrait_graphic": 4205,
+      "portrait_offsetY": 0,
+      "custom_items": "arm_patch_id=40,bag_id=29,eyebrows_id=21,eye_shape_id=37,facial_hair_id=91,glasses_id=27,hair_id=4,hat_id=188,nose_shape_id=32,shirt_id=189,head_shape_id=65,makeup_id=58,sword_id=190,cape_id=126,gloves_id=124,bottle_id=128,eye_color_set_id=75,hair_color_set_id=3,shirt_color_set_id=62,skin_color_set_id=46,eyebrow_color_set_id=3,facial_hair_color_set_id=3,hip_color_set_id=60,lip_color_set_id=89,makeup_color_set_id=89"
+    },
+    "seat_id": "2",
+    "properties": {
+      "type": "human",
+      "tags": [
+        "male",
+        "human",
+        "dps",
+        "support"
+      ],
+      "has_attack_animation": true,
+      "flavor_tags": [
+        "tier1"
+      ]
+    }
+  },
+  {
+    "id": 3,
+    "name": "Emo Werewolf",
+    "short_name": "Emo",
+    "description": "Maybe he didn't get the girl, or maybe he did. Either way, he's sad.",
+    "base_cost": "250",
+    "click_damage": "0",
+    "graphic_id": 1150,
+    "hp_mod": 1,
+    "default_graphics": {
+      "portrait_graphic": 4198,
+      "portrait_offsetY": 15,
+      "graphic_id": 1150
+    },
+    "seat_id": "3",
+    "properties": {
+      "type": "animal",
+      "tags": [
+        "male",
+        "animal",
+        "supernatural",
+        "dps"
+      ],
+      "flavor_tags": [
+        "tier1"
+      ]
+    }
+  },
+  {
+    "id": 4,
+    "name": "Sasha the Fierce Warrior",
+    "short_name": "Sasha",
+    "description": "Sasha may be friendly, but that doesn't mean that she isn't fierce.",
+    "base_cost": "1000",
+    "click_damage": "0",
+    "graphic_id": 3111,
+    "hp_mod": 1,
+    "default_graphics": {
+      "portrait_graphic": 4226,
+      "hd_graphic_front": 5447,
+      "portrait_offsetY": 0,
+      "custom_items": "body_id=43,arm_patch_id=40,bag_id=29,eyebrows_id=19,eye_shape_id=37,facial_hair_id=11,glasses_id=27,hair_id=46,hat_id=114,nose_shape_id=64,shirt_id=575,head_shape_id=65,makeup_id=58,sword_id=202,cape_id=126,gloves_id=117,bottle_id=127,eye_color_set_id=73,hair_color_set_id=5,shirt_color_set_id=60,skin_color_set_id=47,eyebrow_color_set_id=1,facial_hair_color_set_id=1,hip_color_set_id=60,lip_color_set_id=89,makeup_color_set_id=89"
+    },
+    "seat_id": "4",
+    "properties": {
+      "type": "human",
+      "tags": [
+        "female",
+        "human",
+        "support",
+        "dps"
+      ],
+      "has_attack_animation": true,
+      "flavor_tags": [
+        "tier1"
+      ]
+    }
+  },
+  {
+    "id": 5,
+    "name": "The Washed Up Hermit",
+    "short_name": "Hermit",
+    "description": "He used to be an adventurer like you, until he took an arrow to the knee. Now he's an adventurer like you with an extra knee-arrow.",
+    "base_cost": "10000",
+    "click_damage": "0",
+    "graphic_id": 3112,
+    "hp_mod": 1,
+    "default_graphics": {
+      "portrait_graphic": 4204,
+      "hd_graphic_front": 5443,
+      "portrait_offsetY": 0,
+      "custom_items": "arm_patch_id=40,bag_id=29,eyebrows_id=24,eye_shape_id=38,facial_hair_id=91,glasses_id=27,hair_id=4,hat_id=151,nose_shape_id=33,shirt_id=69,head_shape_id=65,makeup_id=58,sword_id=107,cape_id=126,gloves_id=124,bottle_id=128,eye_color_set_id=70,hair_color_set_id=6,shirt_color_set_id=102,skin_color_set_id=48,eyebrow_color_set_id=6,facial_hair_color_set_id=6,hip_color_set_id=96,lip_color_set_id=89,makeup_color_set_id=89"
+    },
+    "seat_id": "5",
+    "properties": {
+      "type": "human",
+      "tags": [
+        "male",
+        "human",
+        "dps"
+      ],
+      "has_attack_animation": true,
+      "flavor_tags": [
+        "tier1"
+      ]
+    }
+  },
+  {
+    "id": 6,
+    "name": "Detective Kaine",
+    "short_name": "Kaine",
+    "description": "Uses his skills of observation to exploit the enemies' weaknesses!",
+    "base_cost": "25000",
+    "click_damage": "0",
+    "graphic_id": 3114,
+    "hp_mod": 1,
+    "default_graphics": {
+      "portrait_graphic": 4206,
+      "hd_graphic_front": 5444,
+      "portrait_offsetY": 0,
+      "custom_items": "arm_patch_id=40,bag_id=29,eyebrows_id=493,eye_shape_id=38,facial_hair_id=11,glasses_id=630,hair_id=3,hat_id=635,nose_shape_id=31,shirt_id=634,head_shape_id=65,makeup_id=58,sword_id=107,cape_id=126,gloves_id=124,bottle_id=128,eye_color_set_id=75,hair_color_set_id=7,shirt_color_set_id=68,skin_color_set_id=46,eyebrow_color_set_id=7,facial_hair_color_set_id=1,hip_color_set_id=68,lip_color_set_id=89,makeup_color_set_id=89"
+    },
+    "seat_id": "6",
+    "properties": {
+      "type": "human",
+      "tags": [
+        "male",
+        "human",
+        "gold"
+      ],
+      "has_attack_animation": true,
+      "flavor_tags": [
+        "tier1"
+      ]
+    }
+  },
+  {
+    "id": 7,
+    "name": "The Princess",
+    "short_name": "Princess",
+    "description": "She's a little spoiled, but she's got a talent for making things burn, so you may as well have her on your side.",
+    "base_cost": "100000",
+    "click_damage": "0",
+    "graphic_id": 3113,
+    "hp_mod": 1,
+    "default_graphics": {
+      "portrait_graphic": 4219,
+      "hd_graphic_front": 5446,
+      "portrait_offsetY": 0,
+      "custom_items": "body_id=43,arm_patch_id=40,bag_id=29,eyebrows_id=20,eye_shape_id=37,facial_hair_id=11,glasses_id=27,hair_id=47,hat_id=347,nose_shape_id=63,shirt_id=75,head_shape_id=65,makeup_id=56,sword_id=107,cape_id=126,gloves_id=124,bottle_id=128,eye_color_set_id=70,hair_color_set_id=1,shirt_color_set_id=67,skin_color_set_id=45,eyebrow_color_set_id=1,facial_hair_color_set_id=1,hip_color_set_id=60,lip_color_set_id=89,makeup_color_set_id=91"
+    },
+    "seat_id": "7",
+    "properties": {
+      "type": "human",
+      "tags": [
+        "female",
+        "human",
+        "royalty",
+        "support"
+      ],
+      "has_attack_animation": true,
+      "flavor_tags": [
+        "tier1",
+        "fire"
+      ]
+    }
+  },
+  {
+    "id": 8,
+    "name": "Natalie Dragon",
+    "short_name": "Natalie",
+    "description": "Nate's older sister never fumbles. Her skill with daggers is nigh unmatched.",
+    "base_cost": "600000",
+    "click_damage": "0",
+    "graphic_id": 3115,
+    "hp_mod": 1,
+    "default_graphics": {
+      "portrait_graphic": 4214,
+      "portrait_offsetY": 0,
+      "custom_items": "body_id=43,arm_patch_id=40,bag_id=29,eyebrows_id=19,eye_shape_id=38,facial_hair_id=11,glasses_id=27,hair_id=46,hat_id=41,nose_shape_id=31,shirt_id=567,head_shape_id=65,makeup_id=58,sword_id=654,cape_id=126,gloves_id=124,bottle_id=128,eye_color_set_id=70,hair_color_set_id=4,shirt_color_set_id=60,skin_color_set_id=45,eyebrow_color_set_id=1,facial_hair_color_set_id=1,hip_color_set_id=60,lip_color_set_id=89,makeup_color_set_id=94"
+    },
+    "seat_id": "8",
+    "properties": {
+      "type": "human",
+      "tags": [
+        "female",
+        "human",
+        "dps",
+        "gold"
+      ],
+      "has_attack_animation": true,
+      "flavor_tags": [
+        "tier1"
+      ]
+    }
+  },
+  {
+    "id": 9,
+    "name": "Jason, Master of Shadows",
+    "short_name": "Jason",
+    "description": "Jason spends his time lurking in the shadows, waiting for unsuspecting prey to pass.",
+    "base_cost": "2500000",
+    "click_damage": "0",
+    "graphic_id": 3116,
+    "hp_mod": 1,
+    "default_graphics": {
+      "portrait_graphic": 4212,
+      "portrait_offsetY": 0,
+      "custom_items": "arm_patch_id=40,bag_id=29,eyebrows_id=22,eye_shape_id=479,facial_hair_id=11,glasses_id=27,hair_id=495,hat_id=103,nose_shape_id=33,shirt_id=75,head_shape_id=65,makeup_id=58,sword_id=107,cape_id=126,gloves_id=124,bottle_id=128,eye_color_set_id=76,hair_color_set_id=6,shirt_color_set_id=68,skin_color_set_id=56,eyebrow_color_set_id=6,facial_hair_color_set_id=6,hip_color_set_id=60,lip_color_set_id=89,makeup_color_set_id=89"
+    },
+    "seat_id": "9",
+    "properties": {
+      "type": "human",
+      "tags": [
+        "male",
+        "human",
+        "dps",
+        "gold",
+        "evil"
+      ],
+      "has_attack_animation": true,
+      "flavor_tags": [
+        "tier1"
+      ]
+    }
+  },
+  {
+    "id": 10,
+    "name": "Artaxes, the Lion",
+    "short_name": "Artaxes",
+    "description": "Artaxes lusts for power. He never really got enough.",
+    "base_cost": "15000000",
+    "click_damage": "0",
+    "graphic_id": 1147,
+    "hp_mod": 1,
+    "default_graphics": {
+      "portrait_graphic": 4194,
+      "portrait_offsetY": -5,
+      "graphic_id": 1147
+    },
+    "seat_id": "10",
+    "properties": {
+      "type": "animal",
+      "tags": [
+        "male",
+        "animal",
+        "supernatural",
+        "support"
+      ],
+      "flavor_tags": [
+        "tier1"
+      ]
+    }
+  },
+  {
+    "id": 11,
+    "name": "Khouri, the Witch Doctor",
+    "short_name": "Khouri",
+    "description": "No one's sure where he came from, but he seems keen to help.",
+    "base_cost": "100000000",
+    "click_damage": "0",
+    "graphic_id": 3117,
+    "hp_mod": 1,
+    "default_graphics": {
+      "portrait_graphic": 4207,
+      "hd_graphic_front": 5445,
+      "portrait_offsetY": 0,
+      "custom_items": "arm_patch_id=40,bag_id=29,eyebrows_id=19,eye_shape_id=37,facial_hair_id=11,glasses_id=27,hair_id=3,hat_id=319,nose_shape_id=31,shirt_id=306,head_shape_id=304,makeup_id=58,sword_id=243,cape_id=126,gloves_id=124,bottle_id=128,eye_color_set_id=76,hair_color_set_id=1,shirt_color_set_id=62,skin_color_set_id=50,eyebrow_color_set_id=1,facial_hair_color_set_id=1,hip_color_set_id=60,lip_color_set_id=89,makeup_color_set_id=89"
+    },
+    "seat_id": "11",
+    "properties": {
+      "type": "human",
+      "tags": [
+        "male",
+        "human",
+        "magic",
+        "support",
+        "healer",
+        "good"
+      ],
+      "has_attack_animation": true,
+      "flavor_tags": [
+        "tier1"
+      ]
+    }
+  },
+  {
+    "id": 12,
+    "name": "Dark Gryphon",
+    "short_name": "Gryphon",
+    "description": "10 points for Gryphon-dor!",
+    "base_cost": "800000000",
+    "click_damage": "0",
+    "graphic_id": 1151,
+    "hp_mod": 1,
+    "default_graphics": {
+      "portrait_graphic": 4202,
+      "portrait_offsetY": 20,
+      "graphic_id": 1151
+    },
+    "seat_id": "12",
+    "properties": {
+      "type": "animal",
+      "tags": [
+        "female",
+        "animal",
+        "supernatural",
+        "support",
+        "good"
+      ],
+      "flavor_tags": [
+        "tier1",
+        "wings"
+      ]
+    }
+  },
+  {
+    "id": 13,
+    "name": "Sarah, the Collector",
+    "short_name": "Sarah",
+    "description": "Sarah wants all the items. All of them.",
+    "base_cost": "6500000000",
+    "click_damage": "0",
+    "graphic_id": 3118,
+    "hp_mod": 1,
+    "default_graphics": {
+      "portrait_graphic": 4225,
+      "portrait_offsetY": 0,
+      "custom_items": "body_id=43,arm_patch_id=40,bag_id=29,eyebrows_id=59,eye_shape_id=37,facial_hair_id=11,glasses_id=27,hair_id=175,hat_id=41,nose_shape_id=31,shirt_id=68,head_shape_id=65,makeup_id=56,sword_id=107,cape_id=126,gloves_id=124,bottle_id=127,eye_color_set_id=71,hair_color_set_id=4,shirt_color_set_id=66,skin_color_set_id=47,eyebrow_color_set_id=4,facial_hair_color_set_id=1,hip_color_set_id=96,lip_color_set_id=91,makeup_color_set_id=92"
+    },
+    "seat_id": "13",
+    "properties": {
+      "type": "human",
+      "tags": [
+        "female",
+        "human",
+        "dps"
+      ],
+      "has_attack_animation": true,
+      "flavor_tags": [
+        "tier1"
+      ]
+    }
+  },
+  {
+    "id": 14,
+    "name": "Gold Panda",
+    "short_name": "Panda",
+    "description": "Not that unlike all your other companions, but more shiny.",
+    "base_cost": "50000000000",
+    "click_damage": "0",
+    "graphic_id": 1148,
+    "hp_mod": 1,
+    "default_graphics": {
+      "portrait_graphic": 4200,
+      "portrait_offsetY": -15,
+      "graphic_id": 1148
+    },
+    "seat_id": "14",
+    "properties": {
+      "type": "animal",
+      "tags": [
+        "female",
+        "animal",
+        "supernatural",
+        "gold"
+      ],
+      "flavor_tags": [
+        "tier1"
+      ]
+    }
+  },
+  {
+    "id": 15,
+    "name": "Prince Sal, the Merman",
+    "short_name": "Sal",
+    "description": "He's the best fighter the merfolks have to offer.",
+    "base_cost": "450000000000",
+    "click_damage": "0",
+    "graphic_id": 3119,
+    "hp_mod": 1,
+    "default_graphics": {
+      "portrait_graphic": 4218,
+      "sound_type": "human",
+      "portrait_offsetY": 0,
+      "custom_items": "arm_patch_id=40,bag_id=29,eyebrows_id=22,eye_shape_id=37,facial_hair_id=393,glasses_id=27,hair_id=3,hat_id=558,nose_shape_id=33,shirt_id=779,head_shape_id=65,makeup_id=58,sword_id=782,cape_id=791,gloves_id=124,bottle_id=128,eye_color_set_id=70,hair_color_set_id=100,shirt_color_set_id=60,skin_color_set_id=48,eyebrow_color_set_id=100,facial_hair_color_set_id=100,hip_color_set_id=60,lip_color_set_id=89,makeup_color_set_id=89"
+    },
+    "seat_id": "15",
+    "properties": {
+      "type": "animal",
+      "tags": [
+        "male",
+        "animal",
+        "royalty",
+        "dps"
+      ],
+      "has_attack_animation": true,
+      "flavor_tags": [
+        "tier1"
+      ]
+    }
+  },
+  {
+    "id": 16,
+    "name": "Fire Phoenix",
+    "short_name": "Phoenix",
+    "description": "This phoenix will object to almost everything and she is almost always right. Converts DPS into gold.",
+    "base_cost": "4000000000000",
+    "click_damage": "0",
+    "graphic_id": 1149,
+    "hp_mod": 1,
+    "default_graphics": {
+      "portrait_graphic": 4199,
+      "portrait_offsetY": 10,
+      "graphic_id": 1149
+    },
+    "seat_id": "16",
+    "properties": {
+      "type": "animal",
+      "tags": [
+        "female",
+        "animal",
+        "supernatural",
+        "support"
+      ],
+      "flavor_tags": [
+        "tier1",
+        "fire",
+        "wings"
+      ]
+    }
+  },
+  {
+    "id": 17,
+    "name": "King Reginald IV",
+    "short_name": "Reginald",
+    "description": "He spent the better part of the last 10 years hunting down a Unicorn for the Princess, but he's pretty much retired now.",
+    "base_cost": "36000000000000",
+    "click_damage": "0",
+    "graphic_id": 3120,
+    "hp_mod": 1,
+    "default_graphics": {
+      "portrait_graphic": 4208,
+      "portrait_offsetY": 0,
+      "custom_items": "arm_patch_id=40,bag_id=29,eyebrows_id=22,eye_shape_id=39,facial_hair_id=91,glasses_id=27,hair_id=495,hat_id=292,nose_shape_id=33,shirt_id=575,head_shape_id=65,makeup_id=58,sword_id=748,cape_id=126,gloves_id=692,bottle_id=128,eye_color_set_id=74,hair_color_set_id=6,shirt_color_set_id=95,skin_color_set_id=47,eyebrow_color_set_id=6,facial_hair_color_set_id=6,hip_color_set_id=60,lip_color_set_id=89,makeup_color_set_id=89"
+    },
+    "seat_id": "17",
+    "properties": {
+      "type": "human",
+      "tags": [
+        "male",
+        "human",
+        "royalty",
+        "support"
+      ],
+      "has_attack_animation": true,
+      "flavor_tags": [
+        "tier1"
+      ]
+    }
+  },
+  {
+    "id": 18,
+    "name": "Thalia, the Thunder King",
+    "short_name": "Thalia",
+    "description": "Spends his time throwing lightning at people who try to dabble in the arcane arts.",
+    "base_cost": "320000000000000",
+    "click_damage": "0",
+    "graphic_id": 3121,
+    "hp_mod": 1,
+    "default_graphics": {
+      "portrait_graphic": 4228,
+      "portrait_offsetY": 0,
+      "custom_items": "arm_patch_id=40,bag_id=29,eyebrows_id=23,eye_shape_id=37,facial_hair_id=393,glasses_id=27,hair_id=495,hat_id=41,nose_shape_id=33,shirt_id=526,head_shape_id=65,makeup_id=58,sword_id=333,cape_id=126,gloves_id=124,bottle_id=128,eye_color_set_id=76,hair_color_set_id=6,shirt_color_set_id=95,skin_color_set_id=50,eyebrow_color_set_id=6,facial_hair_color_set_id=6,hip_color_set_id=60,lip_color_set_id=89,makeup_color_set_id=89"
+    },
+    "seat_id": "18",
+    "properties": {
+      "type": "human",
+      "tags": [
+        "male",
+        "human",
+        "royalty",
+        "magic",
+        "tank",
+        "support"
+      ],
+      "has_attack_animation": true,
+      "flavor_tags": [
+        "tier1"
+      ]
+    }
+  },
+  {
+    "id": 19,
+    "name": "Merci, the Mad Wizard",
+    "short_name": "Merci",
+    "description": "At least he's polite.",
+    "base_cost": "2700000000000000",
+    "click_damage": "0",
+    "graphic_id": 3122,
+    "hp_mod": 1,
+    "default_graphics": {
+      "portrait_graphic": 4203,
+      "portrait_offsetY": 0,
+      "custom_items": "arm_patch_id=40,bag_id=29,eyebrows_id=491,eye_shape_id=482,facial_hair_id=17,glasses_id=27,hair_id=495,hat_id=136,nose_shape_id=33,shirt_id=75,head_shape_id=65,makeup_id=58,sword_id=430,cape_id=126,gloves_id=124,bottle_id=128,eye_color_set_id=77,hair_color_set_id=3,shirt_color_set_id=66,skin_color_set_id=47,eyebrow_color_set_id=3,facial_hair_color_set_id=3,hip_color_set_id=60,lip_color_set_id=89,makeup_color_set_id=89"
+    },
+    "seat_id": "19",
+    "properties": {
+      "type": "human",
+      "tags": [
+        "male",
+        "human",
+        "magic",
+        "support"
+      ],
+      "has_attack_animation": true,
+      "flavor_tags": [
+        "tier1"
+      ]
+    }
+  },
+  {
+    "id": 20,
+    "name": "Nate Dragon",
+    "short_name": "Nate",
+    "description": "Not the most competent hero in the world, but he'll get the job done.",
+    "base_cost": "24000000000000000",
+    "click_damage": "0",
+    "graphic_id": 3123,
+    "hp_mod": 1,
+    "default_graphics": {
+      "portrait_graphic": 4215,
+      "portrait_offsetY": 0,
+      "custom_items": "arm_patch_id=40,bag_id=29,eyebrows_id=24,eye_shape_id=37,facial_hair_id=11,glasses_id=27,hair_id=201,hat_id=41,nose_shape_id=33,shirt_id=200,head_shape_id=65,makeup_id=58,sword_id=202,cape_id=126,gloves_id=124,bottle_id=128,eye_color_set_id=71,hair_color_set_id=4,shirt_color_set_id=60,skin_color_set_id=46,eyebrow_color_set_id=4,facial_hair_color_set_id=4,hip_color_set_id=97,lip_color_set_id=89,makeup_color_set_id=89"
+    },
+    "seat_id": "20",
+    "properties": {
+      "type": "human",
+      "tags": [
+        "male",
+        "human",
+        "dps",
+        "support"
+      ],
+      "has_attack_animation": true,
+      "flavor_tags": [
+        "tier1",
+        "fire"
+      ]
+    }
+  },
+  {
+    "id": 21,
+    "name": "Mister the Monkey",
+    "short_name": "Mister",
+    "description": "All about the monkey business!",
+    "base_cost": "25000",
+    "click_damage": "0",
+    "graphic_id": 2199,
+    "hp_mod": 1,
+    "default_graphics": {
+      "portrait_graphic": 4213,
+      "portrait_offsetY": 0,
+      "graphic_id": 2199
+    },
+    "seat_id": "6",
+    "properties": {
+      "type": "animal",
+      "tags": [
+        "male",
+        "animal",
+        "event",
+        "gold"
+      ],
+      "no_recipes_until": "2019-10-29 12:00:00",
+      "flavor_tags": [
+        "tier1",
+        "event1"
+      ]
+    }
+  },
+  {
+    "id": 22,
+    "name": "Pete the Carney",
+    "short_name": "Pete",
+    "description": "The clown you can afford.",
+    "base_cost": "2500000",
+    "click_damage": "0",
+    "graphic_id": 2198,
+    "hp_mod": 1,
+    "default_graphics": {
+      "portrait_graphic": 4216,
+      "portrait_offsetY": -20,
+      "graphic_id": 2198,
+      "disenchant_offset_x": -4,
+      "disenchant_offset_y": -20
+    },
+    "seat_id": "9",
+    "properties": {
+      "type": "human",
+      "tags": [
+        "male",
+        "human",
+        "event",
+        "support",
+        "gold"
+      ],
+      "no_recipes_until": "2019-10-29 12:00:00",
+      "flavor_tags": [
+        "tier1",
+        "event1"
+      ]
+    }
+  },
+  {
+    "id": 23,
+    "name": "Wendy the Witch",
+    "short_name": "Wendy",
+    "description": "She's such a wyrdo.",
+    "base_cost": "450000000000",
+    "click_damage": "0",
+    "graphic_id": 2470,
+    "hp_mod": 1,
+    "default_graphics": {
+      "portrait_graphic": 4229,
+      "portrait_offsetY": -20,
+      "graphic_id": 2470,
+      "disenchant_offset_y": -20
+    },
+    "seat_id": "15",
+    "properties": {
+      "type": "human",
+      "tags": [
+        "female",
+        "human",
+        "event",
+        "magic",
+        "dps",
+        "evil"
+      ],
+      "no_recipes_until": "2019-11-19 12:00:00",
+      "flavor_tags": [
+        "tier1",
+        "event2"
+      ]
+    }
+  },
+  {
+    "id": 24,
+    "name": "Jack O'Lantern",
+    "short_name": "Jack",
+    "description": "He's a great pumpkin of Irish descent.",
+    "base_cost": "600000",
+    "click_damage": "0",
+    "graphic_id": 2471,
+    "hp_mod": 1,
+    "default_graphics": {
+      "portrait_graphic": 4220,
+      "portrait_offsetY": -15,
+      "graphic_id": 2471,
+      "disenchant_offset_y": -20
+    },
+    "seat_id": "8",
+    "properties": {
+      "type": "animal",
+      "tags": [
+        "male",
+        "animal",
+        "event",
+        "supernatural",
+        "tank",
+        "gold",
+        "flora"
+      ],
+      "no_recipes_until": "2019-11-19 12:00:00",
+      "flavor_tags": [
+        "tier1",
+        "event2"
+      ]
+    }
+  },
+  {
+    "id": 25,
+    "name": "RoboTurkey",
+    "short_name": "",
+    "description": "Last year's model.",
+    "base_cost": "100000",
+    "click_damage": "0",
+    "graphic_id": 2753,
+    "hp_mod": 1,
+    "default_graphics": {
+      "portrait_graphic": 4223,
+      "portrait_offsetY": -20,
+      "graphic_id": 2753,
+      "disenchant_offset_y": -20
+    },
+    "seat_id": "7",
+    "properties": {
+      "type": "animal",
+      "tags": [
+        "male",
+        "robot",
+        "event",
+        "support"
+      ],
+      "no_recipes_until": "2019-12-17 12:00:00",
+      "flavor_tags": [
+        "tier1",
+        "event3",
+        "fire",
+        "wings"
+      ]
+    }
+  },
+  {
+    "id": 26,
+    "name": "Momma Kaine",
+    "short_name": "Momma",
+    "description": "The best culinary scientist there is.",
+    "base_cost": "100000000",
+    "click_damage": "0",
+    "graphic_id": 2752,
+    "hp_mod": 1,
+    "default_graphics": {
+      "portrait_graphic": 4211,
+      "portrait_offsetY": -15,
+      "graphic_id": 2752,
+      "disenchant_offset_y": -20
+    },
+    "seat_id": "11",
+    "properties": {
+      "type": "human",
+      "tags": [
+        "female",
+        "human",
+        "event",
+        "support",
+        "healer"
+      ],
+      "no_recipes_until": "2019-12-17 12:00:00",
+      "flavor_tags": [
+        "tier1",
+        "event3",
+        "gun"
+      ]
+    }
+  },
+  {
+    "id": 27,
+    "name": "RoboSanta",
+    "short_name": "RoboSanta",
+    "description": "More efficient than the flesh and magic based model.",
+    "base_cost": "50000000000",
+    "click_damage": "0",
+    "graphic_id": 2931,
+    "hp_mod": 1,
+    "default_graphics": {
+      "portrait_graphic": 4222,
+      "portrait_offsetY": -15,
+      "graphic_id": 2931,
+      "disenchant_offset_y": -20
+    },
+    "seat_id": "14",
+    "properties": {
+      "type": "animal",
+      "tags": [
+        "male",
+        "robot",
+        "event",
+        "gold"
+      ],
+      "no_recipes_until": "2020-01-14 13:00:00",
+      "flavor_tags": [
+        "tier1",
+        "event4",
+        "gun"
+      ]
+    }
+  },
+  {
+    "id": 28,
+    "name": "Frosty the Snowman",
+    "short_name": "Frosty",
+    "description": "Store in a dry and cool place.",
+    "base_cost": "320000000000000",
+    "click_damage": "0",
+    "graphic_id": 2932,
+    "hp_mod": 1,
+    "default_graphics": {
+      "portrait_graphic": 4227,
+      "portrait_offsetY": -15,
+      "graphic_id": 2932,
+      "disenchant_offset_y": -20
+    },
+    "seat_id": "18",
+    "properties": {
+      "type": "animal",
+      "tags": [
+        "male",
+        "animal",
+        "event",
+        "supernatural",
+        "dps"
+      ],
+      "no_recipes_until": "2020-01-14 13:00:00",
+      "flavor_tags": [
+        "tier1",
+        "event4"
+      ]
+    }
+  },
+  {
+    "id": 29,
+    "name": "Pilot Pam",
+    "short_name": "Pam",
+    "description": "It's a bird! It's a plane! It's Pilot Pam!",
+    "base_cost": "50",
+    "click_damage": "0",
+    "graphic_id": 3129,
+    "hp_mod": 1,
+    "default_graphics": {
+      "portrait_graphic": 4217,
+      "portrait_offsetY": -20,
+      "graphic_id": 3129,
+      "disenchant_offset_y": -20
+    },
+    "seat_id": "2",
+    "properties": {
+      "type": "human",
+      "tags": [
+        "female",
+        "human",
+        "event",
+        "dps",
+        "support"
+      ],
+      "no_recipes_until": "2019-02-05 13:00:00",
+      "flavor_tags": [
+        "tier1",
+        "event5"
+      ]
+    }
+  },
+  {
+    "id": 30,
+    "name": "Queen Siri",
+    "short_name": "Siri",
+    "description": "\"Let's start a matriarchy.\"",
+    "base_cost": "36000000000000",
+    "click_damage": "0",
+    "graphic_id": 3130,
+    "hp_mod": 1,
+    "default_graphics": {
+      "portrait_graphic": 4221,
+      "portrait_offsetY": -20,
+      "graphic_id": 3130,
+      "disenchant_offset_y": -20
+    },
+    "seat_id": "17",
+    "properties": {
+      "type": "human",
+      "tags": [
+        "female",
+        "human",
+        "royalty",
+        "event",
+        "support",
+        "gold"
+      ],
+      "no_recipes_until": "2019-02-05 13:00:00",
+      "flavor_tags": [
+        "tier1",
+        "event5"
+      ]
+    }
+  },
+  {
+    "id": 31,
+    "name": "Groklok the Orc",
+    "short_name": "Groklok",
+    "description": "The world's most versatile orc!",
+    "base_cost": "1000",
+    "click_damage": "0",
+    "graphic_id": 3454,
+    "hp_mod": 1,
+    "default_graphics": {
+      "portrait_graphic": 4201,
+      "portrait_offsetY": -15,
+      "graphic_id": 3454,
+      "disenchant_offset_y": -20
+    },
+    "seat_id": "4",
+    "properties": {
+      "type": "animal",
+      "tags": [
+        "male",
+        "orc",
+        "event",
+        "tank",
+        "dps",
+        "support"
+      ],
+      "no_recipes_until": "2019-02-19 12:00:00",
+      "flavor_tags": [
+        "tier1",
+        "event6"
+      ]
+    }
+  },
+  {
+    "id": 32,
+    "name": "Drizzle the Dark Elf",
+    "short_name": "Drizzle",
+    "description": "She works with Groklok to boost his abilities!",
+    "base_cost": "15000000",
+    "click_damage": "0",
+    "graphic_id": 3455,
+    "hp_mod": 1,
+    "default_graphics": {
+      "portrait_graphic": 4196,
+      "portrait_offsetY": -20,
+      "graphic_id": 3455,
+      "disenchant_offset_y": -20
+    },
+    "seat_id": "10",
+    "properties": {
+      "type": "animal",
+      "tags": [
+        "female",
+        "elf",
+        "event",
+        "support"
+      ],
+      "no_recipes_until": "2019-02-19 12:00:00",
+      "flavor_tags": [
+        "tier1",
+        "event6"
+      ]
+    }
+  },
+  {
+    "id": 33,
+    "name": "Rocky the Rockstar",
+    "short_name": "Rocky",
+    "description": "Plays lead guitar in the band 'Ratmouse'",
+    "base_cost": "800000000",
+    "click_damage": "0",
+    "graphic_id": 3492,
+    "hp_mod": 1,
+    "default_graphics": {
+      "portrait_graphic": 4197,
+      "portrait_offsetY": -20,
+      "graphic_id": 3492,
+      "disenchant_offset_y": -20
+    },
+    "seat_id": "12",
+    "properties": {
+      "type": "human",
+      "tags": [
+        "male",
+        "human",
+        "event",
+        "dps"
+      ],
+      "no_recipes_until": "2019-03-12 12:00:00",
+      "flavor_tags": [
+        "tier1",
+        "event7"
+      ]
+    }
+  },
+  {
+    "id": 34,
+    "name": "Sally the Succubus",
+    "short_name": "Sally",
+    "description": "Beware her seductive seduction.",
+    "base_cost": "250",
+    "click_damage": "0",
+    "graphic_id": 3493,
+    "hp_mod": 1,
+    "default_graphics": {
+      "portrait_graphic": 4224,
+      "portrait_offsetY": -20,
+      "graphic_id": 3493,
+      "disenchant_offset_y": -20
+    },
+    "seat_id": "3",
+    "properties": {
+      "type": "animal",
+      "tags": [
+        "female",
+        "demon",
+        "event",
+        "supernatural",
+        "dps",
+        "evil"
+      ],
+      "no_recipes_until": "2019-03-12 12:00:00",
+      "flavor_tags": [
+        "tier1",
+        "event7",
+        "wings"
+      ]
+    }
+  },
+  {
+    "id": 35,
+    "name": "Larry the Leprechaun",
+    "short_name": "Larry",
+    "description": "You'll never find his pot o' gold! Unless you find it in a chest.",
+    "base_cost": "25000",
+    "click_damage": "0",
+    "graphic_id": 3853,
+    "hp_mod": 1,
+    "default_graphics": {
+      "portrait_graphic": 4210,
+      "portrait_offsetY": -20,
+      "graphic_id": 3853,
+      "disenchant_offset_y": -20
+    },
+    "seat_id": "6",
+    "properties": {
+      "type": "human",
+      "tags": [
+        "male",
+        "leprechaun",
+        "event",
+        "magic",
+        "gold",
+        "support"
+      ],
+      "no_recipes_until": "2019-04-02 13:00:00",
+      "flavor_tags": [
+        "tier1",
+        "event9"
+      ]
+    }
+  },
+  {
+    "id": 36,
+    "name": "Kyle the Party Bro",
+    "short_name": "Kyle",
+    "description": "Party on, party bro!",
+    "base_cost": "10000",
+    "click_damage": "0",
+    "graphic_id": 3852,
+    "hp_mod": 1,
+    "default_graphics": {
+      "portrait_graphic": 4209,
+      "portrait_offsetY": -20,
+      "graphic_id": 3852,
+      "disenchant_offset_y": -20
+    },
+    "seat_id": "5",
+    "properties": {
+      "type": "human",
+      "tags": [
+        "male",
+        "human",
+        "event",
+        "dps"
+      ],
+      "no_recipes_until": "2019-04-02 13:00:00",
+      "flavor_tags": [
+        "tier1",
+        "event9"
+      ]
+    }
+  },
+  {
+    "id": 37,
+    "name": "Alan the ArchAngel",
+    "short_name": "Alan",
+    "description": "The light will burn you!",
+    "base_cost": "4000000000000",
+    "click_damage": "0",
+    "graphic_id": 4033,
+    "hp_mod": 1,
+    "default_graphics": {
+      "portrait_graphic": 4461,
+      "portrait_offsetY": -20,
+      "graphic_id": 4033,
+      "disenchant_offset_y": -20
+    },
+    "seat_id": "16",
+    "properties": {
+      "type": "animal",
+      "tags": [
+        "male",
+        "angel",
+        "event",
+        "supernatural",
+        "support",
+        "good"
+      ],
+      "no_recipes_until": "2019-05-14 12:00:00",
+      "flavor_tags": [
+        "tier1",
+        "event10",
+        "wings"
+      ]
+    }
+  },
+  {
+    "id": 38,
+    "name": "RoboRabbit",
+    "short_name": "RoboRabbit",
+    "description": "Clicking circuits enabled.",
+    "base_cost": "5",
+    "click_damage": "1",
+    "graphic_id": 4034,
+    "hp_mod": 1,
+    "default_graphics": {
+      "portrait_graphic": 4462,
+      "portrait_offsetY": -20,
+      "graphic_id": 4034,
+      "disenchant_offset_y": -20
+    },
+    "seat_id": "1",
+    "properties": {
+      "type": "animal",
+      "tags": [
+        "male",
+        "robot",
+        "event",
+        "support",
+        "clicker"
+      ],
+      "no_recipes_until": "2019-05-14 12:00:00",
+      "flavor_tags": [
+        "tier1",
+        "event10"
+      ]
+    }
+  },
+  {
+    "id": 39,
+    "name": "The Bat Billionaire",
+    "short_name": "Bat Billionaire",
+    "description": "I'm Bat Billionaire.",
+    "base_cost": "2700000000000000",
+    "click_damage": "0",
+    "graphic_id": 4297,
+    "hp_mod": 1,
+    "default_graphics": {
+      "portrait_graphic": 4463,
+      "portrait_offsetY": -20,
+      "graphic_id": 4297,
+      "disenchant_offset_y": -20
+    },
+    "seat_id": "19",
+    "properties": {
+      "type": "human",
+      "tags": [
+        "male",
+        "human",
+        "superhero",
+        "event",
+        "support",
+        "good"
+      ],
+      "no_recipes_until": "2019-04-23 12:00:00",
+      "flavor_tags": [
+        "tier1",
+        "event12"
+      ]
+    }
+  },
+  {
+    "id": 40,
+    "name": "The Metal Soldierette",
+    "short_name": "Soldierette",
+    "description": "More monsters? Oh, come on!",
+    "base_cost": "6500000000",
+    "click_damage": "0",
+    "graphic_id": 4298,
+    "hp_mod": 1,
+    "default_graphics": {
+      "portrait_graphic": 4460,
+      "portrait_offsetY": -20,
+      "graphic_id": 4298,
+      "disenchant_offset_y": -20
+    },
+    "seat_id": "13",
+    "properties": {
+      "type": "human",
+      "tags": [
+        "female",
+        "human",
+        "robot",
+        "superhero",
+        "event",
+        "tank",
+        "dps",
+        "good"
+      ],
+      "no_recipes_until": "2019-04-23 12:00:00",
+      "flavor_tags": [
+        "tier1",
+        "event12"
+      ]
+    }
+  },
+  {
+    "id": 41,
+    "name": "Broot",
+    "short_name": "Broot",
+    "description": "I am Broot.",
+    "base_cost": "2500000",
+    "click_damage": "0",
+    "graphic_id": 4853,
+    "hp_mod": 1,
+    "default_graphics": {
+      "portrait_graphic": 5456,
+      "portrait_offsetY": -20,
+      "graphic_id": 4853,
+      "disenchant_offset_y": -20
+    },
+    "seat_id": "9",
+    "properties": {
+      "type": "human",
+      "tags": [
+        "male",
+        "female",
+        "event",
+        "tank",
+        "support",
+        "gold",
+        "superhero",
+        "flora"
+      ],
+      "no_recipes_until": "2019-06-25 12:00:00",
+      "flavor_tags": [
+        "tier1",
+        "event14"
+      ]
+    }
+  },
+  {
+    "id": 42,
+    "name": "Robbie Raccoon",
+    "short_name": "Robbie",
+    "description": "Let's blow some stuff up! C'mon!",
+    "base_cost": "450000000000",
+    "click_damage": "0",
+    "graphic_id": 4854,
+    "hp_mod": 1,
+    "default_graphics": {
+      "portrait_graphic": 5457,
+      "portrait_offsetY": -20,
+      "graphic_id": 4854,
+      "disenchant_offset_y": -20
+    },
+    "seat_id": "15",
+    "properties": {
+      "type": "human",
+      "tags": [
+        "male",
+        "dps",
+        "event",
+        "animal",
+        "support",
+        "superhero"
+      ],
+      "no_recipes_until": "2019-06-25 12:00:00",
+      "flavor_tags": [
+        "tier1",
+        "event14",
+        "gun"
+      ]
+    }
+  },
+  {
+    "id": 43,
+    "name": "Leerion, the Royal Dwarf",
+    "short_name": "Leerion",
+    "description": "The world's favorite dwarf!",
+    "base_cost": "50000000000",
+    "click_damage": "0",
+    "graphic_id": 5052,
+    "hp_mod": 1,
+    "default_graphics": {
+      "portrait_graphic": 5458,
+      "portrait_offsetY": -20,
+      "graphic_id": 5052,
+      "disenchant_offset_y": -20,
+      "hd_graphic_front": 6868
+    },
+    "seat_id": "14",
+    "properties": {
+      "type": "human",
+      "tags": [
+        "male",
+        "dwarf",
+        "royalty",
+        "gold",
+        "event"
+      ],
+      "no_recipes_until": "2019-06-04 12:00:00",
+      "flavor_tags": [
+        "tier1",
+        "event16"
+      ]
+    }
+  },
+  {
+    "id": 44,
+    "name": "Brogon, Prince of Dragons",
+    "short_name": "Brogon",
+    "description": "Party on, prince bro!",
+    "base_cost": "100000000",
+    "click_damage": "0",
+    "graphic_id": 5051,
+    "hp_mod": 1,
+    "default_graphics": {
+      "portrait_graphic": 5459,
+      "portrait_offsetY": -20,
+      "graphic_id": 5051,
+      "disenchant_offset_y": -20,
+      "hd_graphic_front": 6866
+    },
+    "seat_id": "11",
+    "properties": {
+      "type": "animal",
+      "tags": [
+        "animal",
+        "dragon",
+        "male",
+        "royalty",
+        "support",
+        "healer",
+        "event"
+      ],
+      "no_recipes_until": "2019-06-04 12:00:00",
+      "flavor_tags": [
+        "tier1",
+        "event16",
+        "fire",
+        "wings"
+      ]
+    }
+  },
+  {
+    "id": 45,
+    "name": "Montana James",
+    "short_name": "Montana",
+    "description": "He's named after his family's dog, Montana.",
+    "base_cost": "800000000",
+    "click_damage": "0",
+    "graphic_id": 5283,
+    "hp_mod": 1,
+    "default_graphics": {
+      "portrait_graphic": 5406,
+      "portrait_offsetY": -20,
+      "graphic_id": 5283,
+      "disenchant_offset_y": -20
+    },
+    "seat_id": "12",
+    "properties": {
+      "type": "human",
+      "tags": [
+        "human",
+        "male",
+        "support",
+        "event"
+      ],
+      "no_recipes_until": "2019-08-06 12:00:00",
+      "flavor_tags": [
+        "tier1",
+        "event19",
+        "projectile"
+      ]
+    }
+  },
+  {
+    "id": 46,
+    "name": "Serpent King Draco",
+    "short_name": "Draco",
+    "description": "Sssimply assstonissshing.",
+    "base_cost": "10000",
+    "click_damage": "0",
+    "graphic_id": 5282,
+    "hp_mod": 1,
+    "default_graphics": {
+      "portrait_graphic": 5405,
+      "portrait_offsetY": -20,
+      "graphic_id": 5282,
+      "disenchant_offset_y": -20
+    },
+    "seat_id": "5",
+    "properties": {
+      "type": "animal",
+      "tags": [
+        "animal",
+        "male",
+        "royalty",
+        "dps",
+        "event"
+      ],
+      "no_recipes_until": "2019-08-06 12:00:00",
+      "flavor_tags": [
+        "tier1",
+        "event19"
+      ]
+    }
+  },
+  {
+    "id": 47,
+    "name": "President Billy Smithsonian",
+    "short_name": "Billy",
+    "description": "Long live the President.",
+    "base_cost": "600000",
+    "click_damage": "0",
+    "graphic_id": 5480,
+    "hp_mod": 1,
+    "default_graphics": {
+      "portrait_graphic": 5561,
+      "portrait_offsetY": -20,
+      "graphic_id": 5480,
+      "disenchant_offset_y": -20
+    },
+    "seat_id": "8",
+    "properties": {
+      "type": "human",
+      "tags": [
+        "human",
+        "male",
+        "support",
+        "gold",
+        "event"
+      ],
+      "no_recipes_until": "2019-07-17 12:00:00",
+      "flavor_tags": [
+        "tier1",
+        "event20"
+      ]
+    }
+  },
+  {
+    "id": 48,
+    "name": "Kizlblyp, the Alien Traitor",
+    "short_name": "Kizlblyp",
+    "description": "She's working for us now.",
+    "base_cost": "24000000000000000",
+    "click_damage": "0",
+    "graphic_id": 5481,
+    "hp_mod": 1,
+    "default_graphics": {
+      "portrait_graphic": 5560,
+      "portrait_offsetY": -20,
+      "graphic_id": 5481,
+      "disenchant_offset_y": -20
+    },
+    "seat_id": "20",
+    "properties": {
+      "type": "animal",
+      "tags": [
+        "alien",
+        "female",
+        "magic",
+        "dps",
+        "support",
+        "event"
+      ],
+      "no_recipes_until": "2019-07-17 12:00:00",
+      "flavor_tags": [
+        "tier1",
+        "event20"
+      ]
+    }
+  },
+  {
+    "id": 49,
+    "name": "Ranger Rayna",
+    "short_name": "Rayna",
+    "description": "She ranges about quite rangerly.",
+    "base_cost": "100000",
+    "click_damage": "0",
+    "graphic_id": 5948,
+    "hp_mod": 1,
+    "default_graphics": {
+      "portrait_graphic": 5988,
+      "portrait_offsetY": -20,
+      "graphic_id": 5948,
+      "disenchant_offset_y": -20
+    },
+    "seat_id": "7",
+    "properties": {
+      "type": "human",
+      "tags": [
+        "human",
+        "female",
+        "dps",
+        "healer",
+        "event",
+        "good"
+      ],
+      "no_recipes_until": "2019-08-27 12:00:00",
+      "flavor_tags": [
+        "tier1",
+        "event21",
+        "fire"
+      ]
+    }
+  },
+  {
+    "id": 50,
+    "name": "Littlefoot",
+    "short_name": "",
+    "description": "Bigfoot's little sister and key rival.",
+    "base_cost": "320000000000000",
+    "click_damage": "0",
+    "graphic_id": 5949,
+    "hp_mod": 1,
+    "default_graphics": {
+      "portrait_graphic": 5987,
+      "portrait_offsetY": -20,
+      "graphic_id": 5949,
+      "disenchant_offset_y": -20
+    },
+    "seat_id": "18",
+    "properties": {
+      "type": "animal",
+      "tags": [
+        "animal",
+        "female",
+        "supernatural",
+        "tank",
+        "support",
+        "event"
+      ],
+      "no_recipes_until": "2019-08-27 12:00:00",
+      "flavor_tags": [
+        "tier1",
+        "event21"
+      ]
+    }
+  },
+  {
+    "id": 51,
+    "name": "Veronica, the Android Archer",
+    "short_name": "Veronica",
+    "description": "She has a somewhat unfair advantage.",
+    "base_cost": "50",
+    "click_damage": "0",
+    "graphic_id": 6149,
+    "hp_mod": 1,
+    "default_graphics": {
+      "portrait_graphic": 6281,
+      "portrait_offsetY": -20,
+      "graphic_id": 6149,
+      "disenchant_offset_y": -20,
+      "hd_graphic_front": 6869
+    },
+    "seat_id": "2",
+    "properties": {
+      "type": "animal",
+      "tags": [
+        "elf",
+        "female",
+        "robot",
+        "support",
+        "event"
+      ],
+      "no_recipes_until": "2019-09-17 12:00:00",
+      "flavor_tags": [
+        "tier1",
+        "event22",
+        "projectile"
+      ]
+    }
+  },
+  {
+    "id": 52,
+    "name": "Bubba, the Swimming Orc",
+    "short_name": "Bubba",
+    "description": "He may be an orc, but he's like a fish in the water.",
+    "base_cost": "15000000",
+    "click_damage": "0",
+    "graphic_id": 6148,
+    "hp_mod": 1,
+    "default_graphics": {
+      "portrait_graphic": 6282,
+      "portrait_offsetY": -20,
+      "graphic_id": 6148,
+      "disenchant_offset_y": -20,
+      "hd_graphic_front": 6867
+    },
+    "seat_id": "10",
+    "properties": {
+      "type": "animal",
+      "tags": [
+        "orc",
+        "male",
+        "support",
+        "gold",
+        "event"
+      ],
+      "no_recipes_until": "2019-09-17 12:00:00",
+      "flavor_tags": [
+        "tier1",
+        "event22"
+      ]
+    }
+  },
+  {
+    "id": 53,
+    "name": "Karen, the Cat Teenager",
+    "short_name": "Karen",
+    "description": "She's purrrrrfect.",
+    "base_cost": "250",
+    "click_damage": "0",
+    "graphic_id": 6352,
+    "hp_mod": 1,
+    "default_graphics": {
+      "portrait_graphic": 6491,
+      "portrait_offsetY": -20,
+      "graphic_id": 6352,
+      "disenchant_offset_y": -20
+    },
+    "seat_id": "3",
+    "properties": {
+      "type": "animal",
+      "tags": [
+        "animal",
+        "female",
+        "dps",
+        "supernatural",
+        "event"
+      ],
+      "no_recipes_until": "2019-10-08 12:00:00",
+      "flavor_tags": [
+        "tier1",
+        "event27"
+      ]
+    }
+  },
+  {
+    "id": 54,
+    "name": "Mr. Boggins, the Substitute",
+    "short_name": "Mr. Boggins",
+    "description": "He'll teach you a lesson.",
+    "base_cost": "36000000000000",
+    "click_damage": "0",
+    "graphic_id": 6353,
+    "hp_mod": 1,
+    "default_graphics": {
+      "portrait_graphic": 6492,
+      "portrait_offsetY": -20,
+      "graphic_id": 6353,
+      "disenchant_offset_y": -20
+    },
+    "seat_id": "17",
+    "properties": {
+      "type": "human",
+      "tags": [
+        "leprechaun",
+        "male",
+        "support",
+        "gold",
+        "event"
+      ],
+      "no_recipes_until": "2019-10-08 12:00:00",
+      "flavor_tags": [
+        "tier1",
+        "event27"
+      ]
+    }
+  },
+  {
+    "id": 55,
+    "name": "The Exterminator",
+    "short_name": "Exterminator",
+    "description": "Prepare to be exterminated.",
+    "base_cost": "960000000000000000",
+    "click_damage": "0",
+    "graphic_id": 6547,
+    "hp_mod": 1,
+    "default_graphics": {
+      "portrait_graphic": 6540,
+      "portrait_offsetY": -20,
+      "graphic_id": 6547,
+      "disenchant_offset_y": -20
+    },
+    "seat_id": "21",
+    "properties": {
+      "type": "animal",
+      "tags": [
+        "male",
+        "robot",
+        "dps",
+        "gold",
+        "evil"
+      ],
+      "flavor_tags": [
+        "tier1",
+        "11th",
+        "gun"
+      ]
+    }
+  },
+  {
+    "id": 56,
+    "name": "The Shadow Queen",
+    "short_name": "Shadow Queen",
+    "description": "You cannot destroy a shadow.",
+    "base_cost": "38400000000000000000",
+    "click_damage": "0",
+    "graphic_id": 6552,
+    "hp_mod": 1,
+    "default_graphics": {
+      "portrait_graphic": 6545,
+      "portrait_offsetY": -20,
+      "graphic_id": 6552,
+      "disenchant_offset_y": -20
+    },
+    "seat_id": "22",
+    "properties": {
+      "type": "human",
+      "tags": [
+        "female",
+        "human",
+        "royalty",
+        "supernatural",
+        "support",
+        "evil"
+      ],
+      "flavor_tags": [
+        "tier1",
+        "11th"
+      ]
+    }
+  },
+  {
+    "id": 57,
+    "name": "Greyskull the Pirate",
+    "short_name": "Greyskull",
+    "description": "Arr! Avast matey! Swaggy swag 'n all that!",
+    "base_cost": "1536000000000000000000",
+    "click_damage": "0",
+    "graphic_id": 6549,
+    "hp_mod": 1,
+    "default_graphics": {
+      "portrait_graphic": 6542,
+      "portrait_offsetY": -20,
+      "graphic_id": 6549,
+      "disenchant_offset_y": -20
+    },
+    "seat_id": "23",
+    "properties": {
+      "type": "human",
+      "tags": [
+        "male",
+        "human",
+        "tank",
+        "gold"
+      ],
+      "flavor_tags": [
+        "tier1",
+        "11th",
+        "projectile"
+      ]
+    }
+  },
+  {
+    "id": 58,
+    "name": "Gloria, the Good Witch",
+    "short_name": "Gloria",
+    "description": "Have you been a good little Crusader?",
+    "base_cost": "960000000000000000",
+    "click_damage": "0",
+    "graphic_id": 6548,
+    "hp_mod": 1,
+    "default_graphics": {
+      "portrait_graphic": 6541,
+      "portrait_offsetY": -20,
+      "graphic_id": 6548,
+      "disenchant_offset_y": -20
+    },
+    "seat_id": "21",
+    "properties": {
+      "type": "animal",
+      "tags": [
+        "female",
+        "animal",
+        "support",
+        "healer",
+        "magic",
+        "good"
+      ],
+      "flavor_tags": [
+        "tier1",
+        "11th"
+      ]
+    }
+  },
+  {
+    "id": 59,
+    "name": "Ilsa, the Insane Wizard",
+    "short_name": "Ilsa",
+    "description": "Burn! Burn 'em all!",
+    "base_cost": "38400000000000000000",
+    "click_damage": "0",
+    "graphic_id": 6550,
+    "hp_mod": 1,
+    "default_graphics": {
+      "portrait_graphic": 6543,
+      "portrait_offsetY": -20,
+      "graphic_id": 6550,
+      "disenchant_offset_y": -20
+    },
+    "seat_id": "22",
+    "properties": {
+      "type": "human",
+      "tags": [
+        "female",
+        "human",
+        "magic",
+        "dps",
+        "evil"
+      ],
+      "flavor_tags": [
+        "tier1",
+        "11th"
+      ]
+    }
+  },
+  {
+    "id": 60,
+    "name": "Eiralon, the Blood Mage",
+    "short_name": "Eiralon",
+    "description": "My magic may be forbidden, but you need my power.",
+    "base_cost": "1536000000000000000000",
+    "click_damage": "0",
+    "graphic_id": 6546,
+    "hp_mod": 1,
+    "default_graphics": {
+      "portrait_graphic": 6539,
+      "portrait_offsetY": -20,
+      "graphic_id": 6546,
+      "disenchant_offset_y": -20
+    },
+    "seat_id": "23",
+    "properties": {
+      "type": "animal",
+      "tags": [
+        "male",
+        "elf",
+        "magic",
+        "support",
+        "gold"
+      ],
+      "flavor_tags": [
+        "tier1",
+        "11th"
+      ]
+    }
+  },
+  {
+    "id": 61,
+    "name": "Priestess of Time",
+    "short_name": "Priestess",
+    "description": "All possibilities are open to me.",
+    "base_cost": "61440000000000000000000",
+    "click_damage": "0",
+    "graphic_id": 6551,
+    "hp_mod": 1,
+    "default_graphics": {
+      "portrait_graphic": 6544,
+      "portrait_offsetY": -20,
+      "graphic_id": 6551,
+      "disenchant_offset_y": -20
+    },
+    "seat_id": "24",
+    "properties": {
+      "type": "animal",
+      "tags": [
+        "female",
+        "angel",
+        "supernatural",
+        "support",
+        "dps"
+      ],
+      "flavor_tags": [
+        "tier1",
+        "11th",
+        "wings"
+      ]
+    }
+  },
+  {
+    "id": 62,
+    "name": "Mindy the Mime",
+    "short_name": "Mindy",
+    "description": "She doesn't say much.",
+    "base_cost": "1000",
+    "click_damage": "0",
+    "graphic_id": 6704,
+    "hp_mod": 1,
+    "default_graphics": {
+      "portrait_graphic": 6739,
+      "portrait_offsetY": -20,
+      "graphic_id": 6704,
+      "disenchant_offset_y": -20
+    },
+    "seat_id": "4",
+    "properties": {
+      "type": "human",
+      "tags": [
+        "human",
+        "female",
+        "event",
+        "support",
+        "dps",
+        "supernatural"
+      ],
+      "no_recipes_until": "2019-10-29 12:00:00",
+      "flavor_tags": [
+        "tier2",
+        "event1"
+      ]
+    }
+  },
+  {
+    "id": 63,
+    "name": "The Half-Blood Elf",
+    "short_name": "Halfy",
+    "description": "Half Elf. Half Orc. Completely nuts.",
+    "base_cost": "100000000",
+    "click_damage": "0",
+    "graphic_id": 6703,
+    "hp_mod": 1,
+    "default_graphics": {
+      "portrait_graphic": 6738,
+      "portrait_offsetY": -20,
+      "graphic_id": 6703,
+      "disenchant_offset_y": -20
+    },
+    "seat_id": "11",
+    "properties": {
+      "type": "animal",
+      "tags": [
+        "elf",
+        "orc",
+        "female",
+        "event",
+        "support",
+        "healer"
+      ],
+      "no_recipes_until": "2019-10-29 12:00:00",
+      "flavor_tags": [
+        "tier2",
+        "event1"
+      ]
+    }
+  },
+  {
+    "id": 64,
+    "name": "Henry, the Scaredy-Ghoul",
+    "short_name": "Henry",
+    "description": "It's tough work being scary, especially when you're scared.",
+    "base_cost": "10000",
+    "click_damage": "0",
+    "graphic_id": 6789,
+    "hp_mod": 1,
+    "default_graphics": {
+      "portrait_graphic": 6811,
+      "portrait_offsetY": -20,
+      "graphic_id": 6789,
+      "disenchant_offset_y": -20,
+      "hd_graphic_front": 6861
+    },
+    "seat_id": "5",
+    "properties": {
+      "type": "animal",
+      "tags": [
+        "supernatural",
+        "male",
+        "event",
+        "dps",
+        "undead"
+      ],
+      "no_recipes_until": "2019-11-19 12:00:00",
+      "flavor_tags": [
+        "tier2",
+        "event2"
+      ]
+    }
+  },
+  {
+    "id": 65,
+    "name": "Fright-o-Tron 4000",
+    "short_name": "Fright-o-Tron",
+    "description": "Tirelessly programmed to elicit maximum terror.",
+    "base_cost": "4000000000000",
+    "click_damage": "0",
+    "graphic_id": 6788,
+    "hp_mod": 1,
+    "default_graphics": {
+      "portrait_graphic": 6810,
+      "portrait_offsetY": -20,
+      "graphic_id": 6788,
+      "disenchant_offset_y": -20,
+      "hd_graphic_front": 6862
+    },
+    "seat_id": "16",
+    "properties": {
+      "type": "animal",
+      "tags": [
+        "robot",
+        "female",
+        "event",
+        "support",
+        "evil"
+      ],
+      "no_recipes_until": "2019-11-19 12:00:00",
+      "flavor_tags": [
+        "tier2",
+        "event2"
+      ]
+    }
+  },
+  {
+    "id": 66,
+    "name": "Graham the Driver",
+    "short_name": "Graham",
+    "description": "Tuscon to Las Vegas and back again.",
+    "base_cost": "5",
+    "click_damage": "0",
+    "graphic_id": 6888,
+    "hp_mod": 1,
+    "default_graphics": {
+      "portrait_graphic": 6889,
+      "portrait_offsetY": -20,
+      "graphic_id": 6888,
+      "disenchant_offset_y": -20,
+      "hd_graphic_front": 6897
+    },
+    "seat_id": "1",
+    "properties": {
+      "type": "human",
+      "tags": [
+        "human",
+        "male",
+        "dps",
+        "clicker",
+        "support",
+        "desertbus"
+      ],
+      "flavor_tags": [
+        "tier1"
+      ]
+    }
+  },
+  {
+    "id": 67,
+    "name": "Paul the Pilgrim",
+    "short_name": "Paul",
+    "description": "He's just looking for a new place to settle.",
+    "base_cost": "2500000",
+    "click_damage": "0",
+    "graphic_id": 6907,
+    "hp_mod": 1,
+    "default_graphics": {
+      "portrait_graphic": 6909,
+      "portrait_offsetY": -20,
+      "graphic_id": 6907,
+      "disenchant_offset_y": -20
+    },
+    "seat_id": "9",
+    "properties": {
+      "type": "animal",
+      "tags": [
+        "elf",
+        "male",
+        "tank",
+        "support",
+        "gold",
+        "event"
+      ],
+      "no_recipes_until": "2019-12-17 12:00:00",
+      "flavor_tags": [
+        "tier2",
+        "event3"
+      ]
+    }
+  },
+  {
+    "id": 68,
+    "name": "Petra the Pilgrim",
+    "short_name": "Petra",
+    "description": "She's on the prowl for some prime real estate.",
+    "base_cost": "2700000000000000",
+    "click_damage": "0",
+    "graphic_id": 6908,
+    "hp_mod": 1,
+    "default_graphics": {
+      "portrait_graphic": 6910,
+      "portrait_offsetY": -20,
+      "graphic_id": 6908,
+      "disenchant_offset_y": -20
+    },
+    "seat_id": "19",
+    "properties": {
+      "type": "animal",
+      "tags": [
+        "elf",
+        "female",
+        "dps",
+        "event"
+      ],
+      "no_recipes_until": "2019-12-17 12:00:00",
+      "flavor_tags": [
+        "tier2",
+        "event3"
+      ]
+    }
+  },
+  {
+    "id": 69,
+    "name": "The Dark Helper",
+    "short_name": "Helper",
+    "description": "She actually is very helpful, once you get to know her.",
+    "base_cost": "800000000",
+    "click_damage": "0",
+    "graphic_id": 7386,
+    "hp_mod": 1,
+    "default_graphics": {
+      "portrait_graphic": 7425,
+      "portrait_offsetY": -20,
+      "graphic_id": 7386,
+      "disenchant_offset_y": -20
+    },
+    "seat_id": "12",
+    "properties": {
+      "type": "animal",
+      "tags": [
+        "elf",
+        "female",
+        "support",
+        "gold",
+        "event"
+      ],
+      "no_recipes_until": "2020-01-14 13:00:00",
+      "flavor_tags": [
+        "tier2",
+        "event4"
+      ]
+    }
+  },
+  {
+    "id": 70,
+    "name": "RoboRudolph",
+    "short_name": "Rudolph",
+    "description": "His nose is an LED! It'll shine for hundreds of years without breaking!",
+    "base_cost": "24000000000000000",
+    "click_damage": "0",
+    "graphic_id": 7387,
+    "hp_mod": 1,
+    "default_graphics": {
+      "portrait_graphic": 7426,
+      "portrait_offsetY": -20,
+      "graphic_id": 7387,
+      "disenchant_offset_y": -20
+    },
+    "seat_id": "20",
+    "properties": {
+      "type": "animal",
+      "tags": [
+        "robot",
+        "male",
+        "dps",
+        "event"
+      ],
+      "no_recipes_until": "2020-01-14 13:00:00",
+      "flavor_tags": [
+        "tier2",
+        "event4"
+      ]
+    }
+  },
+  {
+    "id": 71,
+    "name": "Bernard the Bartender",
+    "short_name": "Bernard",
+    "description": "He'll mix you a drink that makes you stronger!",
+    "base_cost": "25000",
+    "click_damage": "0",
+    "graphic_id": 7475,
+    "hp_mod": 1,
+    "default_graphics": {
+      "portrait_graphic": 7536,
+      "portrait_offsetY": -20,
+      "graphic_id": 7475,
+      "disenchant_offset_y": -20
+    },
+    "seat_id": "6",
+    "properties": {
+      "type": "human",
+      "tags": [
+        "event",
+        "gold",
+        "male",
+        "human",
+        "support"
+      ],
+      "no_recipes_until": "2019-02-05 13:00:00",
+      "flavor_tags": [
+        "tier2",
+        "event5"
+      ]
+    }
+  },
+  {
+    "id": 72,
+    "name": "Princess Val the Mermaid",
+    "short_name": "Val",
+    "description": "She's not to be messed with. She's a princess, after all.",
+    "base_cost": "450000000000",
+    "click_damage": "0",
+    "graphic_id": 7476,
+    "hp_mod": 1,
+    "default_graphics": {
+      "portrait_graphic": 7537,
+      "portrait_offsetY": -20,
+      "graphic_id": 7476,
+      "disenchant_offset_y": -20
+    },
+    "seat_id": "15",
+    "properties": {
+      "type": "animal",
+      "tags": [
+        "event",
+        "healer",
+        "animal",
+        "female",
+        "support",
+        "royalty",
+        "good"
+      ],
+      "no_recipes_until": "2019-02-05 13:00:00",
+      "flavor_tags": [
+        "tier2",
+        "event5"
+      ]
+    }
+  },
+  {
+    "id": 73,
+    "name": "Karl the Kicker",
+    "short_name": "Karl",
+    "description": "You don't want to be standing in front of him when he's kicking.",
+    "base_cost": "600000",
+    "click_damage": "0",
+    "graphic_id": 7578,
+    "hp_mod": 1,
+    "default_graphics": {
+      "portrait_graphic": 7620,
+      "portrait_offsetY": -20,
+      "graphic_id": 7578,
+      "disenchant_offset_y": -20
+    },
+    "seat_id": "8",
+    "properties": {
+      "type": "human",
+      "tags": [
+        "event",
+        "male",
+        "human",
+        "gold",
+        "support"
+      ],
+      "no_recipes_until": "2019-02-19 12:00:00",
+      "flavor_tags": [
+        "tier2",
+        "event6",
+        "projectile"
+      ]
+    }
+  },
+  {
+    "id": 74,
+    "name": "Cindy the Cheer-Orc",
+    "short_name": "Cindy",
+    "description": "Give me a D! Give me a P! Give me an S! Goooo DPS!",
+    "base_cost": "320000000000000",
+    "click_damage": "0",
+    "graphic_id": 7577,
+    "hp_mod": 1,
+    "default_graphics": {
+      "portrait_graphic": 7619,
+      "portrait_offsetY": -20,
+      "graphic_id": 7577,
+      "disenchant_offset_y": -20
+    },
+    "seat_id": "18",
+    "properties": {
+      "type": "animal",
+      "tags": [
+        "event",
+        "female",
+        "orc",
+        "support"
+      ],
+      "no_recipes_until": "2019-02-19 12:00:00",
+      "flavor_tags": [
+        "tier2",
+        "event6"
+      ]
+    }
+  },
+  {
+    "id": 75,
+    "name": "Warwick the Warlock",
+    "short_name": "Warwick",
+    "description": "What? You've never heard of a leprechaun warlock?",
+    "base_cost": "5",
+    "click_damage": "1",
+    "graphic_id": 7663,
+    "hp_mod": 1,
+    "default_graphics": {
+      "portrait_graphic": 7696,
+      "portrait_offsetY": -20,
+      "graphic_id": 7663,
+      "disenchant_offset_y": -20
+    },
+    "seat_id": "1",
+    "properties": {
+      "type": "human",
+      "tags": [
+        "event",
+        "leprechaun",
+        "male",
+        "magic",
+        "clicker",
+        "evil"
+      ],
+      "no_recipes_until": "2019-03-12 12:00:00",
+      "flavor_tags": [
+        "tier2",
+        "event7"
+      ]
+    }
+  },
+  {
+    "id": 76,
+    "name": "Katie the Cupid",
+    "short_name": "Katie",
+    "description": "She'll shoot you right through the heart!",
+    "base_cost": "50000000000",
+    "click_damage": "0",
+    "graphic_id": 7662,
+    "hp_mod": 1,
+    "default_graphics": {
+      "portrait_graphic": 7695,
+      "portrait_offsetY": -20,
+      "graphic_id": 7662,
+      "disenchant_offset_y": -20
+    },
+    "seat_id": "14",
+    "properties": {
+      "type": "human",
+      "tags": [
+        "event",
+        "supernatural",
+        "female",
+        "gold",
+        "support",
+        "angel",
+        "good"
+      ],
+      "no_recipes_until": "2019-03-12 12:00:00",
+      "flavor_tags": [
+        "tier2",
+        "event7",
+        "projectile",
+        "wings"
+      ]
+    }
+  },
+  {
+    "id": 77,
+    "name": "Snickette the Sneaky",
+    "short_name": "Snickette",
+    "description": "Sneaky like a fox!",
+    "base_cost": "6500000000",
+    "click_damage": "0",
+    "graphic_id": 7768,
+    "hp_mod": 1,
+    "default_graphics": {
+      "portrait_graphic": 7770,
+      "portrait_offsetY": -20,
+      "graphic_id": 7768,
+      "disenchant_offset_y": -20
+    },
+    "seat_id": "13",
+    "properties": {
+      "type": "human",
+      "tags": [
+        "event",
+        "leprechaun",
+        "female",
+        "magic",
+        "support"
+      ],
+      "no_recipes_until": "2019-04-02 13:00:00",
+      "flavor_tags": [
+        "tier2",
+        "event9"
+      ]
+    }
+  },
+  {
+    "id": 78,
+    "name": "Squiggles the Clown",
+    "short_name": "Squiggles",
+    "description": "He HATES royalty for reasons he's not up to sharing.",
+    "base_cost": "36000000000000",
+    "click_damage": "0",
+    "graphic_id": 7767,
+    "hp_mod": 1,
+    "default_graphics": {
+      "portrait_graphic": 7769,
+      "portrait_offsetY": -20,
+      "graphic_id": 7767,
+      "disenchant_offset_y": -20
+    },
+    "seat_id": "17",
+    "properties": {
+      "type": "human",
+      "tags": [
+        "event",
+        "male",
+        "human",
+        "dps"
+      ],
+      "no_recipes_until": "2019-04-02 13:00:00",
+      "flavor_tags": [
+        "tier2",
+        "event9"
+      ]
+    }
+  },
+  {
+    "id": 79,
+    "name": "Arachnobuddy",
+    "short_name": "",
+    "description": "Arachnobuddy, Arrachnobuddy, does whatever makes monsters bloody",
+    "base_cost": "50",
+    "click_damage": "0",
+    "graphic_id": 7830,
+    "hp_mod": 1,
+    "default_graphics": {
+      "portrait_graphic": 7832,
+      "portrait_offsetY": -20,
+      "graphic_id": 7830,
+      "disenchant_offset_y": -20
+    },
+    "seat_id": "2",
+    "properties": {
+      "type": "human",
+      "tags": [
+        "event",
+        "human",
+        "male",
+        "superhero",
+        "support",
+        "good"
+      ],
+      "no_recipes_until": "2019-04-23 12:00:00",
+      "flavor_tags": [
+        "tier2",
+        "event12",
+        "projectile"
+      ]
+    }
+  },
+  {
+    "id": 80,
+    "name": "Foresight",
+    "short_name": "",
+    "description": "My body is Synthetic, but my DPS is real",
+    "base_cost": "100000000",
+    "click_damage": "0",
+    "graphic_id": 7831,
+    "hp_mod": 1,
+    "default_graphics": {
+      "portrait_graphic": 7833,
+      "portrait_offsetY": -20,
+      "graphic_id": 7831,
+      "disenchant_offset_y": -20
+    },
+    "seat_id": "11",
+    "properties": {
+      "type": "animal",
+      "tags": [
+        "event",
+        "robot",
+        "superhero",
+        "supernatural",
+        "healer",
+        "support"
+      ],
+      "no_recipes_until": "2019-04-23 12:00:00",
+      "flavor_tags": [
+        "tier2",
+        "event12"
+      ]
+    }
+  },
+  {
+    "id": 81,
+    "name": "Baenarall, Angel of Hope",
+    "short_name": "Baenarall",
+    "description": "Hope, descending on a ray of light.",
+    "base_cost": "100000",
+    "click_damage": "0",
+    "graphic_id": 7921,
+    "hp_mod": 1,
+    "default_graphics": {
+      "portrait_graphic": 7923,
+      "portrait_offsetY": -20,
+      "graphic_id": 7921,
+      "disenchant_offset_y": -20
+    },
+    "seat_id": "7",
+    "properties": {
+      "type": "human",
+      "tags": [
+        "female",
+        "angel",
+        "support",
+        "supernatural",
+        "event",
+        "good"
+      ],
+      "no_recipes_until": "2019-05-14 12:00:00",
+      "flavor_tags": [
+        "tier2",
+        "event10",
+        "fire",
+        "wings"
+      ]
+    }
+  },
+  {
+    "id": 82,
+    "name": "Sisaron the Dragon Sorceress",
+    "short_name": "Sisaron",
+    "description": "Who will stand beside the Dragon sorceress?",
+    "base_cost": "15000000",
+    "click_damage": "0",
+    "graphic_id": 7922,
+    "hp_mod": 1,
+    "default_graphics": {
+      "portrait_graphic": 7924,
+      "portrait_offsetY": -20,
+      "graphic_id": 7922,
+      "disenchant_offset_y": -20
+    },
+    "seat_id": "10",
+    "properties": {
+      "type": "animal",
+      "tags": [
+        "female",
+        "magic",
+        "animal",
+        "dragon",
+        "support",
+        "event"
+      ],
+      "no_recipes_until": "2019-05-14 12:00:00",
+      "flavor_tags": [
+        "tier2",
+        "event10",
+        "fire",
+        "wings"
+      ]
+    }
+  },
+  {
+    "id": 83,
+    "name": "Spaceking",
+    "short_name": "",
+    "description": "Come on! You know? Spaceking?",
+    "base_cost": "4000000000000",
+    "click_damage": "0",
+    "graphic_id": 8020,
+    "hp_mod": 1,
+    "default_graphics": {
+      "portrait_graphic": 8022,
+      "portrait_offsetY": -20,
+      "graphic_id": 8020,
+      "disenchant_offset_y": -20
+    },
+    "seat_id": "16",
+    "properties": {
+      "type": "human",
+      "tags": [
+        "human",
+        "male",
+        "royalty",
+        "dps",
+        "event",
+        "superhero"
+      ],
+      "no_recipes_until": "2019-06-25 12:00:00",
+      "flavor_tags": [
+        "tier2",
+        "event14",
+        "gun"
+      ]
+    }
+  },
+  {
+    "id": 84,
+    "name": "Grandmora",
+    "short_name": "",
+    "description": "Still a hatchling at heart.",
+    "base_cost": "10000",
+    "click_damage": "0",
+    "graphic_id": 8019,
+    "hp_mod": 1,
+    "default_graphics": {
+      "portrait_graphic": 8021,
+      "portrait_offsetY": -20,
+      "graphic_id": 8019,
+      "disenchant_offset_y": -20
+    },
+    "seat_id": "5",
+    "properties": {
+      "type": "human",
+      "tags": [
+        "alien",
+        "female",
+        "support",
+        "event",
+        "superhero"
+      ],
+      "no_recipes_until": "2019-06-25 12:00:00",
+      "flavor_tags": [
+        "tier2",
+        "event14"
+      ]
+    }
+  },
+  {
+    "id": 85,
+    "name": "Turps the Tasty",
+    "short_name": "Turps",
+    "description": "Who wouldn't want a Crusader dressed in a Jaffa Cake costume?",
+    "base_cost": "250",
+    "click_damage": "0",
+    "graphic_id": 8166,
+    "hp_mod": 1,
+    "default_graphics": {
+      "portrait_graphic": 8228,
+      "portrait_offsetY": -20,
+      "graphic_id": 8166,
+      "disenchant_offset_y": -20
+    },
+    "seat_id": "3",
+    "properties": {
+      "type": "human",
+      "tags": [
+        "event",
+        "male",
+        "human",
+        "support",
+        "gold"
+      ],
+      "no_recipes_until": "2018-07-11 12:00:00",
+      "flavor_tags": [
+        "tier1",
+        "event60"
+      ]
+    }
+  },
+  {
+    "id": 86,
+    "name": "Sjin the Builder",
+    "short_name": "Sjin",
+    "description": "He's way better at building than Bob.",
+    "base_cost": "6500000000",
+    "click_damage": "0",
+    "graphic_id": 8165,
+    "hp_mod": 1,
+    "default_graphics": {
+      "portrait_graphic": 8227,
+      "portrait_offsetY": -20,
+      "graphic_id": 8165,
+      "disenchant_offset_y": -20
+    },
+    "seat_id": "13",
+    "properties": {
+      "type": "human",
+      "tags": [
+        "event",
+        "male",
+        "human",
+        "support",
+        "supernatural"
+      ],
+      "no_recipes_until": "2018-07-11 12:00:00",
+      "flavor_tags": [
+        "tier1",
+        "event60"
+      ]
+    }
+  },
+  {
+    "id": 87,
+    "name": "Danni the Daring Damsel",
+    "short_name": "Danni",
+    "description": "She's not as innocent as she seems.",
+    "base_cost": "1000",
+    "click_damage": "0",
+    "graphic_id": 8101,
+    "hp_mod": 1,
+    "default_graphics": {
+      "portrait_graphic": 8139,
+      "portrait_offsetY": -20,
+      "graphic_id": 8101,
+      "disenchant_offset_y": -20
+    },
+    "seat_id": "4",
+    "properties": {
+      "type": "human",
+      "tags": [
+        "human",
+        "female",
+        "support",
+        "gold",
+        "event"
+      ],
+      "no_recipes_until": "2019-08-06 12:00:00",
+      "flavor_tags": [
+        "tier2",
+        "event19"
+      ]
+    }
+  },
+  {
+    "id": 88,
+    "name": "Polly the Parrot",
+    "short_name": "Polly",
+    "description": "Squaaaaaaaawk! Gimme a cracker!",
+    "base_cost": "2700000000000000",
+    "click_damage": "0",
+    "graphic_id": 8102,
+    "hp_mod": 1,
+    "default_graphics": {
+      "portrait_graphic": 8140,
+      "portrait_offsetY": -20,
+      "graphic_id": 8102,
+      "disenchant_offset_y": -20
+    },
+    "seat_id": "19",
+    "properties": {
+      "type": "human",
+      "tags": [
+        "animal",
+        "male",
+        "support",
+        "event"
+      ],
+      "no_recipes_until": "2019-08-06 12:00:00",
+      "flavor_tags": [
+        "tier2",
+        "event19",
+        "wings"
+      ]
+    }
+  },
+  {
+    "id": 89,
+    "name": "Slisiblyp, the Alien Scientist",
+    "short_name": "Slisiblyp",
+    "description": "She likes to perform experiments.",
+    "base_cost": "5",
+    "click_damage": "1",
+    "graphic_id": 8344,
+    "hp_mod": 1,
+    "default_graphics": {
+      "portrait_graphic": 8395,
+      "portrait_offsetY": -20,
+      "graphic_id": 8344,
+      "disenchant_offset_y": -20
+    },
+    "seat_id": "1",
+    "properties": {
+      "type": "human",
+      "tags": [
+        "alien",
+        "female",
+        "clicker",
+        "support",
+        "event"
+      ],
+      "no_recipes_until": "2019-07-17 12:00:00",
+      "flavor_tags": [
+        "tier2",
+        "event20"
+      ]
+    }
+  },
+  {
+    "id": 90,
+    "name": "Red, the Ace Pilot",
+    "short_name": "Red",
+    "description": "She's the best damn pilot in the outer rim.",
+    "base_cost": "800000000",
+    "click_damage": "0",
+    "graphic_id": 8343,
+    "hp_mod": 1,
+    "default_graphics": {
+      "portrait_graphic": 8394,
+      "portrait_offsetY": -20,
+      "graphic_id": 8343,
+      "disenchant_offset_y": -20
+    },
+    "seat_id": "12",
+    "properties": {
+      "type": "human",
+      "tags": [
+        "human",
+        "female",
+        "support",
+        "event"
+      ],
+      "no_recipes_until": "2019-07-17 12:00:00",
+      "flavor_tags": [
+        "tier2",
+        "event20"
+      ]
+    }
+  },
+  {
+    "id": 91,
+    "name": "Agent 79",
+    "short_name": "",
+    "description": "The rising star of the Crusader Intelligence Agency.",
+    "base_cost": "61440000000000000000000",
+    "click_damage": "0",
+    "graphic_id": 8408,
+    "hp_mod": 1,
+    "default_graphics": {
+      "portrait_graphic": 8435,
+      "portrait_offsetY": -20,
+      "graphic_id": 8408,
+      "disenchant_offset_y": -20
+    },
+    "seat_id": "24",
+    "properties": {
+      "type": "human",
+      "tags": [
+        "female",
+        "human",
+        "support",
+        "dps",
+        "gold"
+      ],
+      "flavor_tags": [
+        "tier1",
+        "11th",
+        "projectile"
+      ]
+    }
+  },
+  {
+    "id": 92,
+    "name": "RoboQueen",
+    "short_name": "",
+    "description": "Adept at rapid execution.",
+    "base_cost": "250",
+    "click_damage": "0",
+    "graphic_id": 8447,
+    "hp_mod": 1,
+    "default_graphics": {
+      "portrait_graphic": 8485,
+      "portrait_offsetY": -20,
+      "graphic_id": 8447,
+      "disenchant_offset_y": -20
+    },
+    "seat_id": "3",
+    "properties": {
+      "type": "human",
+      "tags": [
+        "female",
+        "robot",
+        "royalty",
+        "dps",
+        "event"
+      ],
+      "no_recipes_until": "2019-06-04 12:00:00",
+      "flavor_tags": [
+        "tier2",
+        "event16"
+      ]
+    }
+  },
+  {
+    "id": 93,
+    "name": "Zombie Winter",
+    "short_name": "Zombie",
+    "description": "He knows nothing.",
+    "base_cost": "25000",
+    "click_damage": "0",
+    "graphic_id": 8448,
+    "hp_mod": 1,
+    "default_graphics": {
+      "portrait_graphic": 8486,
+      "portrait_offsetY": -20,
+      "graphic_id": 8448,
+      "disenchant_offset_y": -20
+    },
+    "seat_id": "6",
+    "properties": {
+      "type": "human",
+      "tags": [
+        "supernatural",
+        "male",
+        "event",
+        "gold",
+        "undead"
+      ],
+      "no_recipes_until": "2019-06-04 12:00:00",
+      "flavor_tags": [
+        "tier2",
+        "event16"
+      ]
+    }
+  },
+  {
+    "id": 94,
+    "name": "Penny the Park Planner",
+    "short_name": "Penny",
+    "description": "Mostly the plan is to not burn it down.",
+    "base_cost": "450000000000",
+    "click_damage": "0",
+    "graphic_id": 8519,
+    "hp_mod": 1,
+    "default_graphics": {
+      "portrait_graphic": 8546,
+      "portrait_offsetY": -20,
+      "graphic_id": 8519,
+      "disenchant_offset_y": -20
+    },
+    "seat_id": "15",
+    "properties": {
+      "type": "human",
+      "tags": [
+        "event",
+        "human",
+        "female",
+        "support"
+      ],
+      "no_recipes_until": "2019-08-27 12:00:00",
+      "flavor_tags": [
+        "tier2",
+        "event21"
+      ]
+    }
+  },
+  {
+    "id": 95,
+    "name": "Beary McBearFace",
+    "short_name": "Beary",
+    "description": "Bet you think that's real funny, don't you?",
+    "base_cost": "36000000000000",
+    "click_damage": "0",
+    "graphic_id": 8518,
+    "hp_mod": 1,
+    "default_graphics": {
+      "portrait_graphic": 8545,
+      "portrait_offsetY": -20,
+      "graphic_id": 8518,
+      "disenchant_offset_y": -20
+    },
+    "seat_id": "17",
+    "properties": {
+      "type": "human",
+      "tags": [
+        "event",
+        "animal",
+        "male",
+        "royalty",
+        "dps"
+      ],
+      "no_recipes_until": "2019-08-27 12:00:00",
+      "flavor_tags": [
+        "tier2",
+        "event21",
+        "fire"
+      ]
+    }
+  },
+  {
+    "id": 96,
+    "name": "The Goldhound",
+    "short_name": "Goldhound",
+    "description": "No one fools this hound.",
+    "base_cost": "50000000000",
+    "click_damage": "0",
+    "graphic_id": 8594,
+    "hp_mod": 1,
+    "default_graphics": {
+      "portrait_graphic": 8634,
+      "portrait_offsetY": -20,
+      "graphic_id": 8594,
+      "disenchant_offset_y": -20
+    },
+    "seat_id": "14",
+    "properties": {
+      "type": "human",
+      "tags": [
+        "event",
+        "animal",
+        "male",
+        "gold"
+      ],
+      "no_recipes_until": "2019-09-17 12:00:00",
+      "flavor_tags": [
+        "tier2",
+        "event22"
+      ]
+    }
+  },
+  {
+    "id": 97,
+    "name": "Milgrid the Mining Mage",
+    "short_name": "Milgrid",
+    "description": "She's no minor miner.",
+    "base_cost": "24000000000000000",
+    "click_damage": "0",
+    "graphic_id": 8595,
+    "hp_mod": 1,
+    "default_graphics": {
+      "portrait_graphic": 8635,
+      "portrait_offsetY": -20,
+      "graphic_id": 8595,
+      "disenchant_offset_y": -20
+    },
+    "seat_id": "20",
+    "properties": {
+      "type": "human",
+      "tags": [
+        "event",
+        "dwarf",
+        "female",
+        "magic",
+        "support"
+      ],
+      "no_recipes_until": "2019-09-17 12:00:00",
+      "flavor_tags": [
+        "tier2",
+        "event22"
+      ]
+    }
+  },
+  {
+    "id": 98,
+    "name": "Willy the Weregoat",
+    "short_name": "Willy",
+    "description": "One gruff customer.",
+    "base_cost": "100000",
+    "click_damage": "0",
+    "graphic_id": 8668,
+    "hp_mod": 1,
+    "default_graphics": {
+      "portrait_graphic": 8722,
+      "portrait_offsetY": -20,
+      "graphic_id": 8668,
+      "disenchant_offset_y": -20
+    },
+    "seat_id": "7",
+    "properties": {
+      "type": "animal",
+      "tags": [
+        "event",
+        "animal",
+        "male",
+        "support",
+        "supernatural"
+      ],
+      "no_recipes_until": "2019-10-08 12:00:00",
+      "flavor_tags": [
+        "tier2",
+        "event27",
+        "fire"
+      ]
+    }
+  },
+  {
+    "id": 99,
+    "name": "The Exchange Student",
+    "short_name": "",
+    "description": "Look out, there's a new dragon on the block.",
+    "base_cost": "320000000000000",
+    "click_damage": "0",
+    "graphic_id": 8667,
+    "hp_mod": 1,
+    "default_graphics": {
+      "portrait_graphic": 8723,
+      "portrait_offsetY": -20,
+      "graphic_id": 8667,
+      "disenchant_offset_y": -20
+    },
+    "seat_id": "18",
+    "properties": {
+      "type": "animal",
+      "tags": [
+        "event",
+        "female",
+        "animal",
+        "support",
+        "dragon",
+        "supernatural"
+      ],
+      "no_recipes_until": "2019-10-08 12:00:00",
+      "flavor_tags": [
+        "tier2",
+        "event27",
+        "wings"
+      ]
+    }
+  },
+  {
+    "id": 100,
+    "name": "Chiyome",
+    "short_name": "",
+    "description": "Omae wa mou shindeiru.",
+    "base_cost": "2457600000000000000000000",
+    "click_damage": "0",
+    "graphic_id": 8753,
+    "hp_mod": 1,
+    "default_graphics": {
+      "portrait_graphic": 8754,
+      "portrait_offsetY": -20,
+      "graphic_id": 8753,
+      "disenchant_offset_y": -20
+    },
+    "seat_id": "25",
+    "properties": {
+      "type": "human",
+      "tags": [
+        "event",
+        "dps",
+        "human",
+        "female"
+      ],
+      "no_recipes_until": "2019-10-29 12:00:00",
+      "flavor_tags": [
+        "tier3",
+        "event1"
+      ]
+    }
+  },
+  {
+    "id": 101,
+    "name": "Viktor the Vampire",
+    "short_name": "Viktor",
+    "description": "He's a sucker for a good formation.",
+    "base_cost": "98304000000000000000000000",
+    "click_damage": "0",
+    "graphic_id": 8811,
+    "hp_mod": 1,
+    "default_graphics": {
+      "portrait_graphic": 8812,
+      "portrait_offsetY": -20,
+      "graphic_id": 8811,
+      "disenchant_offset_y": -20
+    },
+    "seat_id": "26",
+    "properties": {
+      "type": "human",
+      "tags": [
+        "event",
+        "supernatural",
+        "male",
+        "support",
+        "evil",
+        "undead"
+      ],
+      "no_recipes_until": "2019-11-19 12:00:00",
+      "flavor_tags": [
+        "tier3",
+        "event2"
+      ]
+    }
+  },
+  {
+    "id": 102,
+    "name": "James the Seated",
+    "short_name": "James",
+    "description": "All hail the supreme chair man.",
+    "base_cost": "50",
+    "click_damage": "0",
+    "graphic_id": 8871,
+    "hp_mod": 1,
+    "default_graphics": {
+      "portrait_graphic": 8891,
+      "portrait_offsetY": -20,
+      "graphic_id": 8871,
+      "disenchant_offset_y": -20
+    },
+    "seat_id": "2",
+    "properties": {
+      "type": "human",
+      "tags": [
+        "human",
+        "male",
+        "dps",
+        "support",
+        "desertbus"
+      ],
+      "flavor_tags": [
+        "tier1"
+      ]
+    }
+  },
+  {
+    "id": 103,
+    "name": "Chef Casey",
+    "short_name": "Casey",
+    "description": "Monsters are just another ingredient.",
+    "base_cost": "3932160000000000000000000000",
+    "click_damage": "0",
+    "graphic_id": 8897,
+    "hp_mod": 1,
+    "default_graphics": {
+      "portrait_graphic": 8898,
+      "portrait_offsetY": -20,
+      "graphic_id": 8897,
+      "disenchant_offset_y": -20
+    },
+    "seat_id": "27",
+    "properties": {
+      "type": "human",
+      "tags": [
+        "human",
+        "female",
+        "event",
+        "support"
+      ],
+      "no_recipes_until": "2019-12-17 12:00:00",
+      "flavor_tags": [
+        "tier3",
+        "event3",
+        "fire"
+      ]
+    }
+  },
+  {
+    "id": 104,
+    "name": "Xander, the Xmas Dragon",
+    "short_name": "Xander",
+    "description": "They made a song for a glowing reindeer, but not a DRAGON?",
+    "base_cost": "157000000000000000000000000000",
+    "click_damage": "0",
+    "graphic_id": 9000,
+    "hp_mod": 1,
+    "default_graphics": {
+      "portrait_graphic": 9012,
+      "portrait_offsetY": -20,
+      "graphic_id": 9000,
+      "disenchant_offset_y": -20
+    },
+    "seat_id": "28",
+    "properties": {
+      "type": "animal",
+      "tags": [
+        "male",
+        "animal",
+        "dragon",
+        "event",
+        "support"
+      ],
+      "no_recipes_until": "2020-01-14 13:00:00",
+      "flavor_tags": [
+        "tier3",
+        "event4",
+        "fire",
+        "wings"
+      ]
+    }
+  },
+  {
+    "id": 105,
+    "name": "Shenna the Centaur",
+    "short_name": "Shenna",
+    "description": "Half-human, half-horse, all attitude.",
+    "base_cost": "98304000000000000000000000",
+    "click_damage": "0",
+    "graphic_id": 9067,
+    "hp_mod": 1,
+    "default_graphics": {
+      "portrait_graphic": 9068,
+      "portrait_offsetY": -20,
+      "graphic_id": 9067,
+      "disenchant_offset_y": -20
+    },
+    "seat_id": "26",
+    "properties": {
+      "type": "animal",
+      "tags": [
+        "human",
+        "animal",
+        "female",
+        "dps",
+        "event"
+      ],
+      "no_recipes_until": "2019-02-05 13:00:00",
+      "flavor_tags": [
+        "tier3",
+        "event5"
+      ]
+    }
+  },
+  {
+    "id": 106,
+    "name": "Griz the Robo-Coach",
+    "short_name": "Griz",
+    "description": "His methods are harsh, but statistically sound.",
+    "base_cost": "2457600000000000000000000",
+    "click_damage": "0",
+    "graphic_id": 9112,
+    "hp_mod": 1,
+    "default_graphics": {
+      "portrait_graphic": 9114,
+      "portrait_offsetY": -20,
+      "graphic_id": 9112,
+      "disenchant_offset_y": -20
+    },
+    "seat_id": "25",
+    "properties": {
+      "type": "human",
+      "tags": [
+        "event",
+        "male",
+        "robot",
+        "support",
+        "gold"
+      ],
+      "no_recipes_until": "2019-02-19 12:00:00",
+      "flavor_tags": [
+        "tier3",
+        "event6"
+      ]
+    }
+  },
+  {
+    "id": 107,
+    "name": "Frankie the Demon Crooner",
+    "short_name": "Frankie",
+    "description": "Fly him to hell, let him play among the damned.",
+    "base_cost": "3932160000000000000000000000",
+    "click_damage": "0",
+    "graphic_id": 9139,
+    "hp_mod": 1,
+    "default_graphics": {
+      "portrait_graphic": 9140,
+      "portrait_offsetY": -20,
+      "graphic_id": 9139,
+      "disenchant_offset_y": -20
+    },
+    "seat_id": "27",
+    "properties": {
+      "type": "human",
+      "tags": [
+        "demon",
+        "male",
+        "event",
+        "support",
+        "supernatural",
+        "evil"
+      ],
+      "no_recipes_until": "2019-03-12 12:00:00",
+      "flavor_tags": [
+        "tier3",
+        "event7"
+      ]
+    }
+  },
+  {
+    "id": 108,
+    "name": "Saint Patrokia",
+    "short_name": "Patrokia",
+    "description": "All she asks is a little faith.",
+    "base_cost": "157000000000000000000000000000",
+    "click_damage": "0",
+    "graphic_id": 9186,
+    "hp_mod": 1,
+    "default_graphics": {
+      "portrait_graphic": 9187,
+      "portrait_offsetY": -20,
+      "graphic_id": 9186,
+      "disenchant_offset_y": -20
+    },
+    "seat_id": "28",
+    "properties": {
+      "type": "animal",
+      "tags": [
+        "event",
+        "orc",
+        "supernatural",
+        "female",
+        "support",
+        "good"
+      ],
+      "no_recipes_until": "2019-04-02 13:00:00",
+      "flavor_tags": [
+        "tier3",
+        "event9"
+      ]
+    }
+  },
+  {
+    "id": 109,
+    "name": "Biff the Magic Rabbit",
+    "short_name": "Biff",
+    "description": "He's ready to dish out a healthy dose of beta-carotene.",
+    "base_cost": "2457600000000000000000000",
+    "click_damage": "0",
+    "graphic_id": 9241,
+    "hp_mod": 1,
+    "default_graphics": {
+      "portrait_graphic": 9242,
+      "portrait_offsetY": -20,
+      "graphic_id": 9241,
+      "disenchant_offset_y": -20
+    },
+    "seat_id": "25",
+    "properties": {
+      "type": "animal",
+      "tags": [
+        "event",
+        "male",
+        "magic",
+        "tank",
+        "animal"
+      ],
+      "no_recipes_until": "2019-05-14 12:00:00",
+      "flavor_tags": [
+        "tier3",
+        "event10",
+        "projectile"
+      ]
+    }
+  },
+  {
+    "id": 110,
+    "name": "Thoonoose",
+    "short_name": "",
+    "description": "The most powerful being in the universe: some purple guy.",
+    "base_cost": "3932160000000000000000000000",
+    "click_damage": "0",
+    "graphic_id": 9330,
+    "hp_mod": 1,
+    "default_graphics": {
+      "portrait_graphic": 9331,
+      "portrait_offsetY": -20,
+      "graphic_id": 9330,
+      "disenchant_offset_y": -20
+    },
+    "seat_id": "27",
+    "properties": {
+      "type": "human",
+      "tags": [
+        "event",
+        "male",
+        "dps",
+        "alien",
+        "superhero",
+        "evil"
+      ],
+      "no_recipes_until": "2019-04-23 12:00:00",
+      "flavor_tags": [
+        "tier3",
+        "event12"
+      ]
+    }
+  },
+  {
+    "id": 111,
+    "name": "The Holy Guardian",
+    "short_name": "Holy Guardian",
+    "description": "The wholly holy guardian of a sacred garden.",
+    "base_cost": "98304000000000000000000000",
+    "click_damage": "0",
+    "graphic_id": 9381,
+    "hp_mod": 1,
+    "default_graphics": {
+      "portrait_graphic": 9378,
+      "portrait_offsetY": -20,
+      "graphic_id": 9381,
+      "disenchant_offset_y": -20
+    },
+    "seat_id": "26",
+    "properties": {
+      "type": "human",
+      "tags": [
+        "event",
+        "male",
+        "angel",
+        "supernatural",
+        "support",
+        "healer",
+        "good"
+      ],
+      "no_recipes_until": "2019-08-06 12:00:00",
+      "flavor_tags": [
+        "tier3",
+        "event19",
+        "wings"
+      ]
+    }
+  },
+  {
+    "id": 112,
+    "name": "Rex the Wrestler",
+    "short_name": "Rex",
+    "description": "Nothing goes over this guy's head.",
+    "base_cost": "157000000000000000000000000000",
+    "click_damage": "0",
+    "graphic_id": 9332,
+    "hp_mod": 1,
+    "default_graphics": {
+      "portrait_graphic": 9415,
+      "portrait_offsetY": -20,
+      "graphic_id": 9332,
+      "disenchant_offset_y": -20
+    },
+    "seat_id": "28",
+    "properties": {
+      "type": "animal",
+      "tags": [
+        "event",
+        "alien",
+        "male",
+        "support",
+        "gold",
+        "superhero"
+      ],
+      "no_recipes_until": "2019-06-25 12:00:00",
+      "flavor_tags": [
+        "tier3",
+        "event14"
+      ]
+    }
+  },
+  {
+    "id": 113,
+    "name": "Skeletom",
+    "short_name": "",
+    "description": "He can neither live nor breathe video games, but he sure likes them.",
+    "base_cost": "2700000000000000",
+    "click_damage": "0",
+    "graphic_id": 9465,
+    "hp_mod": 1,
+    "default_graphics": {
+      "portrait_graphic": 9467,
+      "portrait_offsetY": -20,
+      "graphic_id": 9465,
+      "disenchant_offset_y": -20
+    },
+    "seat_id": "19",
+    "properties": {
+      "type": "human",
+      "tags": [
+        "event",
+        "male",
+        "supernatural",
+        "support",
+        "undead"
+      ],
+      "no_recipes_until": "2018-07-11 12:00:00",
+      "flavor_tags": [
+        "tier2",
+        "event60"
+      ]
+    }
+  },
+  {
+    "id": 114,
+    "name": "The Game Goblin",
+    "short_name": "Goblin",
+    "description": "The delivery man is his only friend.",
+    "base_cost": "15000000",
+    "click_damage": "0",
+    "graphic_id": 9464,
+    "hp_mod": 1,
+    "default_graphics": {
+      "portrait_graphic": 9466,
+      "portrait_offsetY": -20,
+      "graphic_id": 9464,
+      "disenchant_offset_y": -20
+    },
+    "seat_id": "10",
+    "properties": {
+      "type": "human",
+      "tags": [
+        "male",
+        "supernatural",
+        "support",
+        "gold",
+        "event"
+      ],
+      "no_recipes_until": "2018-07-11 12:00:00",
+      "flavor_tags": [
+        "tier2",
+        "event60",
+        "projectile"
+      ]
+    }
+  },
+  {
+    "id": 115,
+    "name": "First Lady Betty Smithsonian",
+    "short_name": "Betty",
+    "description": "She's been calling the shots all along.",
+    "base_cost": "2457600000000000000000000",
+    "click_damage": "0",
+    "graphic_id": 9577,
+    "hp_mod": 1,
+    "default_graphics": {
+      "portrait_graphic": 9578,
+      "portrait_offsetY": -20,
+      "graphic_id": 9577,
+      "disenchant_offset_y": -20
+    },
+    "seat_id": "25",
+    "properties": {
+      "type": "human",
+      "tags": [
+        "female",
+        "human",
+        "support",
+        "event"
+      ],
+      "no_recipes_until": "2019-07-17 12:00:00",
+      "flavor_tags": [
+        "tier3",
+        "event20"
+      ]
+    }
+  },
+  {
+    "id": 116,
+    "name": "The Wolf King",
+    "short_name": "Wolf King",
+    "description": "His senses are sharp, but his claws are sharper.",
+    "base_cost": "157000000000000000000000000000",
+    "click_damage": "0",
+    "graphic_id": 9618,
+    "hp_mod": 1,
+    "default_graphics": {
+      "portrait_graphic": 9619,
+      "portrait_offsetY": -20,
+      "graphic_id": 9618,
+      "disenchant_offset_y": -20
+    },
+    "seat_id": "28",
+    "properties": {
+      "type": "animal",
+      "tags": [
+        "event",
+        "animal",
+        "male",
+        "dps",
+        "royalty"
+      ],
+      "no_recipes_until": "2019-06-04 12:00:00",
+      "flavor_tags": [
+        "tier3",
+        "event16"
+      ]
+    }
+  },
+  {
+    "id": 117,
+    "name": "Dr. Evil, PhD",
+    "short_name": "Dr. Evil",
+    "description": "Criminally misunderstood.",
+    "base_cost": "98304000000000000000000000",
+    "click_damage": "0",
+    "graphic_id": 9647,
+    "hp_mod": 1,
+    "default_graphics": {
+      "portrait_graphic": 9648,
+      "portrait_offsetY": -20,
+      "graphic_id": 9647,
+      "disenchant_offset_y": -20
+    },
+    "seat_id": "26",
+    "properties": {
+      "type": "human",
+      "tags": [
+        "event",
+        "human",
+        "male",
+        "support",
+        "gold",
+        "evil"
+      ],
+      "no_recipes_until": "2019-09-17 12:00:00",
+      "flavor_tags": [
+        "tier3",
+        "event22"
+      ]
+    }
+  },
+  {
+    "id": 118,
+    "name": "Rosie the Rocklechaun",
+    "short_name": "Rosie",
+    "description": "A rock leprechaun is a rocklechaun. Don't ask why.",
+    "base_cost": "3932160000000000000000000000",
+    "click_damage": "0",
+    "graphic_id": 9696,
+    "hp_mod": 1,
+    "default_graphics": {
+      "portrait_graphic": 9697,
+      "portrait_offsetY": -20,
+      "graphic_id": 9696,
+      "disenchant_offset_y": -20
+    },
+    "seat_id": "27",
+    "properties": {
+      "type": "human",
+      "tags": [
+        "event",
+        "female",
+        "leprechaun",
+        "tank",
+        "support"
+      ],
+      "no_recipes_until": "2019-08-27 12:00:00",
+      "flavor_tags": [
+        "tier3",
+        "event21"
+      ]
+    }
+  },
+  {
+    "id": 119,
+    "name": "Zoraeban, Demonic Angel",
+    "short_name": "Zoraeban",
+    "description": "Part angel, part demon, all alone.",
+    "base_cost": "2457600000000000000000000",
+    "click_damage": "0",
+    "graphic_id": 9745,
+    "hp_mod": 1,
+    "default_graphics": {
+      "portrait_graphic": 9746,
+      "portrait_offsetY": -20,
+      "graphic_id": 9745,
+      "disenchant_offset_y": -20
+    },
+    "seat_id": "25",
+    "properties": {
+      "type": "human",
+      "tags": [
+        "event",
+        "male",
+        "angel",
+        "demon",
+        "dps",
+        "supernatural"
+      ],
+      "no_recipes_until": "2019-10-08 12:00:00",
+      "flavor_tags": [
+        "tier3",
+        "event27",
+        "wings"
+      ]
+    }
+  },
+  {
+    "id": 120,
+    "name": "Sashimi the Seal",
+    "short_name": "Sashimi",
+    "description": "This seal's the real deal.",
+    "base_cost": "6280000000000000000000000000000",
+    "click_damage": "0",
+    "graphic_id": 9811,
+    "hp_mod": 1,
+    "default_graphics": {
+      "portrait_graphic": 9812,
+      "portrait_offsetY": -20,
+      "graphic_id": 9811,
+      "disenchant_offset_y": -20
+    },
+    "seat_id": "29",
+    "properties": {
+      "type": "animal",
+      "tags": [
+        "event",
+        "female",
+        "animal",
+        "gold",
+        "support"
+      ],
+      "no_recipes_until": "2019-10-29 12:00:00",
+      "flavor_tags": [
+        "tier4",
+        "event1"
+      ]
+    }
+  },
+  {
+    "id": 121,
+    "name": "Kathleen the Chaotic",
+    "short_name": "Kathleen",
+    "description": "Chaos for the bus god!",
+    "base_cost": "2500000",
+    "click_damage": "0",
+    "graphic_id": 9879,
+    "hp_mod": 1,
+    "default_graphics": {
+      "portrait_graphic": 9880,
+      "portrait_offsetY": -20,
+      "graphic_id": 9879,
+      "disenchant_offset_y": -20
+    },
+    "seat_id": "9",
+    "properties": {
+      "type": "human",
+      "tags": [
+        "female",
+        "human",
+        "dps",
+        "magic",
+        "desertbus"
+      ],
+      "flavor_tags": [
+        "tier1",
+        "fire"
+      ]
+    }
+  },
+  {
+    "id": 122,
+    "name": "Trixie the Treater",
+    "short_name": "Trixie",
+    "description": "Trick or treat! Smell my feet!",
+    "base_cost": "960000000000000000",
+    "click_damage": "0",
+    "graphic_id": 9847,
+    "hp_mod": 1,
+    "default_graphics": {
+      "portrait_graphic": 9848,
+      "portrait_offsetY": -20,
+      "graphic_id": 9847,
+      "disenchant_offset_y": -20
+    },
+    "seat_id": "21",
+    "properties": {
+      "type": "human",
+      "tags": [
+        "female",
+        "support",
+        "gold",
+        "event"
+      ],
+      "no_recipes_until": "2019-11-19 12:00:00",
+      "flavor_tags": [
+        "tier4",
+        "event2"
+      ]
+    }
+  },
+  {
+    "id": 123,
+    "name": "43G1S",
+    "short_name": "",
+    "description": "The 43rd generation defensive droid from One Systems.",
+    "base_cost": "1536000000000000000000",
+    "click_damage": "0",
+    "graphic_id": 9919,
+    "hp_mod": 1,
+    "default_graphics": {
+      "portrait_graphic": 9920,
+      "portrait_offsetY": -20,
+      "graphic_id": 9919,
+      "disenchant_offset_y": -20
+    },
+    "seat_id": "23",
+    "properties": {
+      "type": "human",
+      "tags": [
+        "event",
+        "robot",
+        "tank",
+        "support"
+      ],
+      "no_recipes_until": "2019-12-17 12:00:00",
+      "flavor_tags": [
+        "tier4",
+        "event3"
+      ]
+    }
+  },
+  {
+    "id": 124,
+    "name": "Wrena the Fair",
+    "short_name": "Wrena",
+    "description": "Harsh, but fair.",
+    "base_cost": "251200000000000000000000000000000",
+    "click_damage": "0",
+    "graphic_id": 9977,
+    "hp_mod": 1,
+    "default_graphics": {
+      "portrait_graphic": 9978,
+      "portrait_offsetY": -20,
+      "graphic_id": 9977,
+      "disenchant_offset_y": -20
+    },
+    "seat_id": "30",
+    "properties": {
+      "type": "human",
+      "tags": [
+        "event",
+        "elf",
+        "dps",
+        "female",
+        "magic",
+        "good"
+      ],
+      "no_recipes_until": "2020-01-14 13:00:00",
+      "flavor_tags": [
+        "tier4",
+        "event4"
+      ]
+    }
+  },
+  {
+    "id": 125,
+    "name": "Bruno the Unicorn",
+    "short_name": "Bruno",
+    "description": "Finally, the unicorn that The Princess always wanted.",
+    "base_cost": "38400000000000000000",
+    "click_damage": "0",
+    "graphic_id": 10023,
+    "hp_mod": 1,
+    "default_graphics": {
+      "portrait_graphic": 10024,
+      "portrait_offsetY": -20,
+      "graphic_id": 10023,
+      "disenchant_offset_y": -20
+    },
+    "seat_id": "22",
+    "properties": {
+      "type": "animal",
+      "tags": [
+        "event",
+        "animal",
+        "male",
+        "healer",
+        "gold",
+        "supernatural",
+        "good"
+      ],
+      "no_recipes_until": "2019-02-05 13:00:00",
+      "flavor_tags": [
+        "tier4",
+        "event5"
+      ]
+    }
+  },
+  {
+    "id": 126,
+    "name": "Nargulg Granitehand",
+    "short_name": "Nargulg",
+    "description": "Result of a rare union, source of a rare bruisin'.",
+    "base_cost": "98304000000000000000000000",
+    "click_damage": "1",
+    "graphic_id": 10066,
+    "hp_mod": 1,
+    "default_graphics": {
+      "portrait_graphic": 10067,
+      "portrait_offsetY": -20,
+      "graphic_id": 10066,
+      "disenchant_offset_y": -20
+    },
+    "seat_id": "26",
+    "properties": {
+      "type": "animal",
+      "tags": [
+        "event",
+        "male",
+        "orc",
+        "dwarf",
+        "clicker",
+        "support"
+      ],
+      "no_recipes_until": "2019-02-19 12:00:00",
+      "flavor_tags": [
+        "tier4",
+        "event6"
+      ]
+    }
+  },
+  {
+    "id": 127,
+    "name": "Ishtar",
+    "short_name": "",
+    "description": "Subject of worship, or threat to existence? You decide.",
+    "base_cost": "6279999999999999000000000000000",
+    "click_damage": "0",
+    "graphic_id": 10169,
+    "hp_mod": 1,
+    "default_graphics": {
+      "portrait_graphic": 10170,
+      "portrait_offsetY": -20,
+      "graphic_id": 10169,
+      "disenchant_offset_y": -20
+    },
+    "seat_id": "29",
+    "properties": {
+      "type": "human",
+      "tags": [
+        "event",
+        "female",
+        "demon",
+        "supernatural",
+        "magic",
+        "support",
+        "royalty",
+        "evil"
+      ],
+      "no_recipes_until": "2019-03-12 12:00:00",
+      "flavor_tags": [
+        "tier4",
+        "event7",
+        "fire"
+      ]
+    }
+  },
+  {
+    "id": 128,
+    "name": "Ana Guinness",
+    "short_name": "Ana",
+    "description": "A stout-hearted lass with absolutely no brand affiliations.",
+    "base_cost": "61440000000000000000000",
+    "click_damage": "0",
+    "graphic_id": 10183,
+    "hp_mod": 1,
+    "default_graphics": {
+      "portrait_graphic": 10184,
+      "portrait_offsetY": -20,
+      "graphic_id": 10183,
+      "disenchant_offset_y": -20
+    },
+    "seat_id": "24",
+    "properties": {
+      "type": "human",
+      "tags": [
+        "event",
+        "female",
+        "leprechaun",
+        "magic",
+        "support",
+        "gold"
+      ],
+      "no_recipes_until": "2019-04-02 13:00:00",
+      "flavor_tags": [
+        "tier4",
+        "event9",
+        "projectile"
+      ]
+    }
+  },
+  {
+    "id": 129,
+    "name": "Deathpuddle",
+    "short_name": "",
+    "description": "Acutely aware that he's in a video game, and of who he's based on.",
+    "base_cost": "251200000000000000000000000000000",
+    "click_damage": "0",
+    "graphic_id": 10308,
+    "hp_mod": 1,
+    "default_graphics": {
+      "portrait_graphic": 10309,
+      "portrait_offsetY": -20,
+      "graphic_id": 10308,
+      "disenchant_offset_y": -20
+    },
+    "seat_id": "30",
+    "properties": {
+      "type": "human",
+      "tags": [
+        "event",
+        "male",
+        "superhero",
+        "human",
+        "dps",
+        "good"
+      ],
+      "no_recipes_until": "2019-04-23 12:00:00",
+      "flavor_tags": [
+        "tier4",
+        "event12"
+      ]
+    }
+  },
+  {
+    "id": 130,
+    "name": "Bridget the Painter",
+    "short_name": "Bridget",
+    "description": "A master of many artforms, but egg painting is her favorite.",
+    "base_cost": "10048000000000000000000000000000000",
+    "click_damage": "0",
+    "graphic_id": 10374,
+    "hp_mod": 1,
+    "default_graphics": {
+      "portrait_graphic": 10398,
+      "portrait_offsetY": -20,
+      "graphic_id": 10374,
+      "disenchant_offset_y": -20
+    },
+    "seat_id": "31",
+    "properties": {
+      "type": "human",
+      "tags": [
+        "event",
+        "female",
+        "angel",
+        "supernatural",
+        "support",
+        "good"
+      ],
+      "no_recipes_until": "2019-05-14 12:00:00",
+      "flavor_tags": [
+        "tier4",
+        "event10",
+        "wings"
+      ]
+    }
+  },
+  {
+    "id": 131,
+    "name": "Holddoor",
+    "short_name": "",
+    "description": "We are what we do. Holddoor holds the door.",
+    "base_cost": "960000000000000000",
+    "click_damage": "0",
+    "graphic_id": 10435,
+    "hp_mod": 1,
+    "default_graphics": {
+      "portrait_offsetY": -20,
+      "graphic_id": 10435,
+      "disenchant_offset_y": -20
+    },
+    "seat_id": "21",
+    "properties": {
+      "type": "human",
+      "tags": [
+        "event",
+        "orc",
+        "male",
+        "tank",
+        "support"
+      ],
+      "no_recipes_until": "2019-06-04 12:00:00",
+      "flavor_tags": [
+        "tier4",
+        "event16"
+      ]
+    }
+  },
+  {
+    "id": 132,
+    "name": "Mycall the Mushroom",
+    "short_name": "Mycall",
+    "description": "Cute as a button mushroom!",
+    "base_cost": "1536000000000000000000",
+    "click_damage": "0",
+    "graphic_id": 10484,
+    "hp_mod": 1,
+    "default_graphics": {
+      "portrait_offsetY": -20,
+      "graphic_id": 10484,
+      "disenchant_offset_y": -20
+    },
+    "seat_id": "23",
+    "properties": {
+      "type": "animal",
+      "tags": [
+        "event",
+        "female",
+        "male",
+        "healer",
+        "support",
+        "flora"
+      ],
+      "no_recipes_until": "2019-06-25 12:00:00",
+      "flavor_tags": [
+        "tier4",
+        "event14"
+      ]
+    }
+  },
+  {
+    "id": 133,
+    "name": "Xygallix",
+    "short_name": "",
+    "description": "A mechanic... from SPACE?!",
+    "base_cost": "10048000000000000000000000000000000",
+    "click_damage": "0",
+    "graphic_id": 10530,
+    "hp_mod": 1,
+    "default_graphics": {
+      "portrait_offsetY": -20,
+      "graphic_id": 10530,
+      "disenchant_offset_y": -20
+    },
+    "seat_id": "31",
+    "properties": {
+      "type": "animal",
+      "tags": [
+        "event",
+        "support",
+        "alien",
+        "nonbinary"
+      ],
+      "no_recipes_until": "2019-07-17 12:00:00",
+      "flavor_tags": [
+        "tier4",
+        "event20",
+        "robot"
+      ]
+    }
+  },
+  {
+    "id": 134,
+    "name": "Kebos the Mummy",
+    "short_name": "Kebos",
+    "description": "Been a while, crocodile.",
+    "base_cost": "3932160000000000000000000000",
+    "click_damage": "0",
+    "graphic_id": 10594,
+    "hp_mod": 1,
+    "default_graphics": {
+      "portrait_offsetY": -20,
+      "disenchant_offset_y": -20
+    },
+    "seat_id": "27",
+    "properties": {
+      "type": "animal",
+      "tags": [
+        "event",
+        "dps",
+        "animal",
+        "supernatural",
+        "undead",
+        "female",
+        "good"
+      ],
+      "no_recipes_until": "2019-08-06 12:00:00",
+      "flavor_tags": [
+        "tier4",
+        "event19"
+      ]
+    }
+  },
+  {
+    "id": 135,
+    "name": "Arenvarr the Beheaded",
+    "short_name": "Arenvarr",
+    "description": "The severed, rejoined in death.",
+    "base_cost": "6279999999999999000000000000000",
+    "click_damage": "0",
+    "graphic_id": 10628,
+    "hp_mod": 1,
+    "default_graphics": {
+      "portrait_offsetY": -20,
+      "disenchant_offset_y": -20
+    },
+    "seat_id": "29",
+    "properties": {
+      "type": "animal",
+      "tags": [
+        "undead",
+        "dragon",
+        "gold",
+        "support",
+        "nonbinary",
+        "animal"
+      ],
+      "flavor_tags": [
+        "tier1",
+        "11th",
+        "wings"
+      ]
+    }
+  },
+  {
+    "id": 136,
+    "name": "Langley the Conductor",
+    "short_name": "Langley",
+    "description": "By clicking here, you agree to the code of conductors.",
+    "base_cost": "157000000000000000000000000000",
+    "click_damage": "0",
+    "graphic_id": 10669,
+    "hp_mod": 1,
+    "default_graphics": {
+      "portrait_offsetY": -20,
+      "disenchant_offset_y": -20,
+      "scale": 0.9
+    },
+    "seat_id": "28",
+    "properties": {
+      "type": "human",
+      "tags": [
+        "event",
+        "human",
+        "nonbinary",
+        "support",
+        "gold"
+      ],
+      "no_recipes_until": "2019-08-27 12:00:00",
+      "flavor_tags": [
+        "tier4",
+        "event21",
+        "projectile"
+      ]
+    }
+  },
+  {
+    "id": 137,
+    "name": "Euodia the Fencer",
+    "short_name": "Euodia",
+    "description": "Beware her labyrinthine swordplay.",
+    "base_cost": "4000000000000",
+    "click_damage": "0",
+    "graphic_id": 10719,
+    "hp_mod": 1,
+    "default_graphics": {
+      "portrait_offsetY": -20,
+      "disenchant_offset_y": -20
+    },
+    "seat_id": "16",
+    "properties": {
+      "type": "animal",
+      "tags": [
+        "event",
+        "support",
+        "female",
+        "animal",
+        "human"
+      ],
+      "flavor_tags": [
+        "tier4",
+        "event22"
+      ],
+      "no_recipes_until": "2019-09-17 12:00:00"
+    }
+  },
+  {
+    "id": 138,
+    "name": "Aphelion the Distant",
+    "short_name": "Aphelion",
+    "description": "Always distant, but always there.",
+    "base_cost": "4000000000000000000000000000000000000",
+    "click_damage": "0",
+    "graphic_id": 10766,
+    "hp_mod": 1,
+    "default_graphics": {
+      "portrait_offsetY": -20,
+      "disenchant_offset_y": -20
+    },
+    "seat_id": "32",
+    "properties": {
+      "type": "animal",
+      "tags": [
+        "event",
+        "dps",
+        "male",
+        "supernatural",
+        "evil"
+      ],
+      "flavor_tags": [
+        "tier4",
+        "event27",
+        "wings"
+      ],
+      "no_recipes_until": "2019-10-08 12:00:00"
+    }
+  },
+  {
+    "id": 139,
+    "name": "Carmen and Petunia",
+    "short_name": "The Twins",
+    "description": "Good things come in twos!",
+    "base_cost": "4000000000000000000000000000000000000",
+    "click_damage": "0",
+    "graphic_id": 10810,
+    "hp_mod": 1,
+    "default_graphics": {
+      "portrait_offsetY": -20,
+      "disenchant_offset_y": -20
+    },
+    "seat_id": "32",
+    "properties": {
+      "type": "human",
+      "tags": [
+        "human",
+        "human",
+        "female",
+        "female",
+        "event",
+        "support",
+        "gold"
+      ],
+      "no_recipes_until": "2019-10-29 12:00:00",
+      "flavor_tags": [
+        "tier5",
+        "event1"
+      ]
+    }
+  },
+  {
+    "id": 140,
+    "name": "The Evanescent",
+    "short_name": "",
+    "description": "The luminous alight to battle.",
+    "base_cost": "38400000000000000000",
+    "click_damage": "0",
+    "graphic_id": 10891,
+    "hp_mod": 1,
+    "default_graphics": {
+      "portrait_offsetY": -20,
+      "disenchant_offset_y": -20
+    },
+    "seat_id": "22",
+    "properties": {
+      "type": "human",
+      "tags": [
+        "event",
+        "support",
+        "supernatural",
+        "good",
+        "demon"
+      ],
+      "no_recipes_until": "2019-11-19 12:00:00",
+      "flavor_tags": [
+        "tier5",
+        "event2"
+      ]
+    }
+  },
+  {
+    "id": 141,
+    "name": "The Desert Bus",
+    "short_name": "",
+    "description": "The most driven Crusader of all.",
+    "base_cost": "600000",
+    "click_damage": "0",
+    "graphic_id": 10893,
+    "hp_mod": 1,
+    "default_graphics": {
+      "portrait_offsetY": -20,
+      "disenchant_offset_y": -20
+    },
+    "seat_id": "8",
+    "properties": {
+      "type": "animal",
+      "tags": [
+        "robot",
+        "gold",
+        "support",
+        "desertbus"
+      ],
+      "flavor_tags": [
+        "tier1"
+      ]
+    }
+  },
+  {
+    "id": 142,
+    "name": "Gemthel the Gourmet",
+    "short_name": "Gemthel",
+    "description": "The palate of a generation.",
+    "base_cost": "6500000000",
+    "click_damage": "0",
+    "graphic_id": 10949,
+    "hp_mod": 1,
+    "default_graphics": {
+      "portrait_offsetY": -20,
+      "disenchant_offset_y": -20
+    },
+    "seat_id": "13",
+    "properties": {
+      "type": "animal",
+      "tags": [
+        "event",
+        "dwarf",
+        "female",
+        "support",
+        "healer",
+        "royalty"
+      ],
+      "flavor_tags": [
+        "event3",
+        "tier5",
+        "projectile"
+      ],
+      "no_recipes_until": "2019-12-17 12:00:00"
+    }
+  },
+  {
+    "id": 143,
+    "name": "Kris, the Enraged Elemental",
+    "short_name": "Kris",
+    "description": "Someone's got their needles in a knot!",
+    "base_cost": "6280000000000000000000000000000",
+    "click_damage": "0",
+    "graphic_id": 10985,
+    "hp_mod": 1,
+    "default_graphics": {
+      "portrait_offsetY": -20,
+      "disenchant_offset_y": -20
+    },
+    "seat_id": "29",
+    "properties": {
+      "type": "animal",
+      "tags": [
+        "event",
+        "supernatural",
+        "male",
+        "female",
+        "flora",
+        "evil",
+        "support"
+      ],
+      "no_recipes_until": "2020-01-14 13:00:00",
+      "flavor_tags": [
+        "event4",
+        "tier5"
+      ]
+    }
+  },
+  {
+    "id": 144,
+    "name": "Jiaolong the Guardian",
+    "short_name": "Jiaolong",
+    "description": "Spirit of the endless river.",
+    "base_cost": "1",
+    "click_damage": "0",
+    "graphic_id": 1,
+    "hp_mod": 1,
+    "default_graphics": {
+      "portrait_offsetY": -20,
+      "disenchant_offset_y": -20
+    },
+    "seat_id": "33",
+    "properties": {
+      "type": "animal",
+      "tags": [
+        "event",
+        "dragon",
+        "male",
+        "good",
+        "animal",
+        "dps"
+      ],
+      "no_recipes_until": "2020-01-14 13:00:00",
+      "flavor_tags": [
+        "event5",
+        "tier5"
+      ]
+    }
+  }
+]

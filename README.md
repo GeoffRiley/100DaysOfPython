@@ -39,5 +39,9 @@ Try out awesome library _sanitize_ at https://github.com/Alir3z4/python-sanitize
 —Bringing sanity to world of messed-up data. 
 
 ## Day 8: [8<sup>th</sup> January 2020](./008)
-Try out awesome library django-elastic-transcoder at https://github.com/StreetVoice/django-elastic-transcoder 
+Try out awesome library _django-elastic-transcoder_ at https://github.com/StreetVoice/django-elastic-transcoder 
 —Django + [Amazon Elastic Transcoder](https://aws.amazon.com/elastictranscoder/).
+
+## Day 9: [9<sup>th</sup> January 2020](./009)
+Try out awesome library _dotted_ at https://github.com/carlosescri/DottedDict 
+—A library that provides a method of accessing lists and dicts with a dotted path notation.
