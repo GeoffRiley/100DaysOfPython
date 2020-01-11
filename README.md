@@ -45,3 +45,7 @@ Try out awesome library _django-elastic-transcoder_ at https://github.com/Street
 ## Day 9: [9<sup>th</sup> January 2020](./009)
 Try out awesome library _dotted_ at https://github.com/carlosescri/DottedDict 
 —A library that provides a method of accessing lists and dicts with a dotted path notation.
+
+## Day 10: [10<sup>th</sup> January 2020](./010)
+Try out awesome library _Python-Modernize_ at https://github.com/mitsuhiko/python-modernize
+—Modernizes Python code for eventual Python 3 migration.
