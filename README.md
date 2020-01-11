@@ -49,3 +49,7 @@ Try out awesome library _dotted_ at https://github.com/carlosescri/DottedDict
 ## Day 10: [10<sup>th</sup> January 2020](./010)
 Try out awesome library _Python-Modernize_ at https://github.com/mitsuhiko/python-modernize
 —Modernizes Python code for eventual Python 3 migration.
+
+## Day 11: [11<sup>th</sup> January 2020](./011)
+Try out awesome library _alipay_ at https://github.com/lxneng/alipay 
+—Unofficial Alipay API for Python.
