@@ -53,3 +53,7 @@ Try out awesome library _Python-Modernize_ at https://github.com/mitsuhiko/pytho
 ## Day 11: [11<sup>th</sup> January 2020](./011)
 Try out awesome library _alipay_ at https://github.com/lxneng/alipay 
 —Unofficial Alipay API for Python.
+
+# Day 12: [12<sup>th</sup> January 2020](./012)
+Try out awesome library _python-currencies_ at https://github.com/Alir3z4/python-currencies 
+—Display money format and its filthy currencies.
