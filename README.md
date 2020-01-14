@@ -61,3 +61,7 @@ Try out awesome library _python-currencies_ at https://github.com/Alir3z4/python
 ## Day 13: [13<sup>th</sup> January 2020](./013)
 Try out awesome library _forex-python_ at https://github.com/MicroPyramid/forex-python 
 —Foreign exchange rates, Bitcoin price index and currency conversion.
+
+## Day 14: [14<sup>th</sup> January 2020](./014)
+Try out awesome library _funcy_ at https://github.com/Suor/funcy 
+—A fancy and practical functional tools.
