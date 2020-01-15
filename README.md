@@ -65,3 +65,8 @@ Try out awesome library _forex-python_ at https://github.com/MicroPyramid/forex-
 ## Day 14: [14<sup>th</sup> January 2020](./014)
 Try out awesome library _funcy_ at https://github.com/Suor/funcy 
 —A fancy and practical functional tools.
+
+## Day 15: [15<sup>th</sup> January 2020](./015)
+Try out awesome library _django-countries_ at https://github.com/SmileyChris/django-countries 
+—A Django app that provides country choices for use with forms, flag icons static files, and 
+a country field for models.
