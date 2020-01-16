@@ -70,3 +70,7 @@ Try out awesome library _funcy_ at https://github.com/Suor/funcy
 Try out awesome library _django-countries_ at https://github.com/SmileyChris/django-countries 
 —A Django app that provides country choices for use with forms, flag icons static files, and 
 a country field for models.
+
+## Day 16: [16<sup>th</sup> January 2020](./016)
+Try out awesome library _MarkupSafe_ at https://github.com/pallets/markupsafe 
+—Implements a XML/HTML/XHTML Markup safe string for Python.
