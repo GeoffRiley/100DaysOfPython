@@ -74,3 +74,7 @@ a country field for models.
 ## Day 16: [16<sup>th</sup> January 2020](./016)
 Try out awesome library _MarkupSafe_ at https://github.com/pallets/markupsafe 
 —Implements a XML/HTML/XHTML Markup safe string for Python.
+
+## Day 17: [17<sup>th</sup> January 2020](./017)
+Try out awesome library _txZMQ_ at https://github.com/smira/txZMQ 
+—Twisted based wrapper for the ZeroMQ message library.
