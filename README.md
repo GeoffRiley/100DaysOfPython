@@ -78,3 +78,7 @@ Try out awesome library _MarkupSafe_ at https://github.com/pallets/markupsafe
 ## Day 17: [17<sup>th</sup> January 2020](./017)
 Try out awesome library _txZMQ_ at https://github.com/smira/txZMQ 
 —Twisted based wrapper for the ZeroMQ message library.
+
+## Day 18: [18<sup>th</sup> January 2020](./018)
+Try out awesome library _pyshorteners_ at https://github.com/ellisonleao/pyshorteners 
+—A pure Python URL shortening lib.
