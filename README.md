@@ -82,3 +82,7 @@ Try out awesome library _txZMQ_ at https://github.com/smira/txZMQ
 ## Day 18: [18<sup>th</sup> January 2020](./018)
 Try out awesome library _pyshorteners_ at https://github.com/ellisonleao/pyshorteners 
 —A pure Python URL shortening lib.
+
+## Day 19: [19<sup>th</sup> January 2020](./019)
+Try out awesome library _Demiurge_ at https://github.com/matiasb/demiurge 
+—PyQuery-based scraping micro-framework.
