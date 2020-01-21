@@ -86,3 +86,7 @@ Try out awesome library _pyshorteners_ at https://github.com/ellisonleao/pyshort
 ## Day 19: [19<sup>th</sup> January 2020](./019)
 Try out awesome library _Demiurge_ at https://github.com/matiasb/demiurge 
 —PyQuery-based scraping micro-framework.
+
+## Day 20: [20<sup>th</sup> January 2020](./020)
+Try out awesome library _jinja-assets-compressor_ at https://github.com/jaysonsantos/jinja-assets-compressor 
+—A Jinja extension to compile and compress your assets.
