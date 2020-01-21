@@ -90,3 +90,7 @@ Try out awesome library _Demiurge_ at https://github.com/matiasb/demiurge
 ## Day 20: [20<sup>th</sup> January 2020](./020)
 Try out awesome library _jinja-assets-compressor_ at https://github.com/jaysonsantos/jinja-assets-compressor 
 —A Jinja extension to compile and compress your assets.
+
+## Day 21: [21<sup>st</sup> January 2020](./021)
+Try out awesome library _tinytag_ at https://github.com/devsnd/tinytag 
+—A library for reading music meta data of MP3, OGG, FLAC and Wave files.
