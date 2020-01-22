@@ -94,3 +94,7 @@ Try out awesome library _jinja-assets-compressor_ at https://github.com/jaysonsa
 ## Day 21: [21<sup>st</sup> January 2020](./021)
 Try out awesome library _tinytag_ at https://github.com/devsnd/tinytag 
 —A library for reading music meta data of MP3, OGG, FLAC and Wave files.
+
+## Day 22: [22<sup>st</sup> January 2020](./022)
+Try out awesome library _Tomorrow_ at https://github.com/madisonmay/Tomorrow 
+—Magic decorator syntax for asynchronous code.
