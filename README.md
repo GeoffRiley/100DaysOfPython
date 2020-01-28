@@ -98,3 +98,9 @@ Try out awesome library _tinytag_ at https://github.com/devsnd/tinytag
 ## Day 22: [22<sup>st</sup> January 2020](./022)
 Try out awesome library _Tomorrow_ at https://github.com/madisonmay/Tomorrow 
 —Magic decorator syntax for asynchronous code.
+
+_(23<sup>rd</sup> to 27<sup>th</sup> January missed due to illness)_
+
+## Day 23: [28<sup>th</sup> January 2020](./023)
+Try out awesome library _PyICU_ at https://github.com/ovalhub/pyicu 
+—A wrapper of International Components for Unicode C++ library ([ICU](http://site.icu-project.org/)).
