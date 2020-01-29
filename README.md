@@ -104,3 +104,7 @@ _(23<sup>rd</sup> to 27<sup>th</sup> January missed due to illness)_
 ## Day 23: [28<sup>th</sup> January 2020](./023)
 Try out awesome library _PyICU_ at https://github.com/ovalhub/pyicu 
 —A wrapper of International Components for Unicode C++ library ([ICU](http://site.icu-project.org/)).
+
+## Day 24: [29<sup>th</sup> January 2020](./024)
+Try out awesome library _simpleq_ at https://github.com/rdegges/simpleq 
+—A simple, infinitely scalable, Amazon SQS based queue.
