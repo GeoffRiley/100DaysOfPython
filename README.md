@@ -108,3 +108,7 @@ Try out awesome library _PyICU_ at https://github.com/ovalhub/pyicu
 ## Day 24: [29<sup>th</sup> January 2020](./024)
 Try out awesome library _simpleq_ at https://github.com/rdegges/simpleq 
 —A simple, infinitely scalable, Amazon SQS based queue.
+
+## Day 25: [30<sup>th</sup> January 2020](./025)
+Try out awesome library _PythonRobotics_ at https://github.com/AtsushiSakai/PythonRobotics 
+—This is a compilation of various robotics algorithms with visualizations.
