@@ -1,5 +1,5 @@
 # Day 26: 2<sup>nd</sup> February 2020
-Try out awesome library _scikit-video_ at https://github.com/aizvorski/scikit-video 
+Try out awesome library [_scikit-video_](https://github.com/aizvorski/scikit-video) 
 —Video processing routines for SciPy.
 
 ## Requirements
