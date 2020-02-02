@@ -112,3 +112,7 @@ Try out awesome library _simpleq_ at https://github.com/rdegges/simpleq
 ## Day 25: [30<sup>th</sup> January 2020](./025)
 Try out awesome library _PythonRobotics_ at https://github.com/AtsushiSakai/PythonRobotics 
 —This is a compilation of various robotics algorithms with visualizations.
+
+## Day 26: [2<sup>nd</sup> February 2020](./026)
+Try out awesome library _scikit-video_ at https://github.com/aizvorski/scikit-video 
+—Video processing routines for SciPy.
